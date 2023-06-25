@@ -1,7 +1,7 @@
 <?php
 /**$
     Download - fr_FR
-    CLIENTXCMS Translator system - Exported on 2023-06-25 22:02:20
+    CLIENTXCMS Translator system - Exported on 2023-06-25 23:24:59
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -12,15 +12,18 @@ return [
       'clientsonly' => 'Autoriser le téléchargement aux clients uniquement',
       'filename' => 'Nom du document',
       'maxdownload' => 'Nombre de téléchargements autorisés par client (0 pour aucune limitation)',
+      'maxdownloadhelp' => 'Disponible uniquement lorsque l\'option "Client uniquement" est activée',
       'type' => 'Type de document',
     ],
     'admin' => [
       'title' => 'Configuration des téléchargements',
       'subtitle' => 'Administez les différentes configurations d\'offres.',
+      'addtouser' => 'Ajouter à l\'utilisateur',
     ],
     'title' => 'Téléchargements',
     'your_download' => 'Vos téléchargements',
     'product' => 'Nos produits téléchargables',
+    'reachedmaxdownload' => 'Vous avez atteint la limite de téléchargement du fichier.',
     'friendlyname' => 'Nom d\'apparence',
     'globaldownload' => 'Téléchargement pour tous',
     'add' => 'Ajouter',
