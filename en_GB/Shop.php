@@ -1,7 +1,7 @@
 <?php
 /**$
     Shop - en_GB
-    CLIENTXCMS Translator system - Exported on 2023-06-25 23:25:06
+    CLIENTXCMS Translator system - Exported on 2023-06-27 12:47:36
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -60,6 +60,7 @@ return [
     'amount' => 'Cart amount must be at least %amount%',
     'items' => 'The cart must have at least %amount% Element',
     'need' => 'You must have the following services to add the promo code: %names%',
+    'required' => 'You must have one of the following items to activate the discount: %names%.',
   ],
   'transactionstates' => [
     'Refused' => 'Refused',
@@ -413,6 +414,8 @@ return [
       'end_at' => 'End',
       'months' => 'No. months of discounts',
       'month' => 'No. of months',
+      'required' => 'Product is required',
+      'requiredsub' => 'One of the products must be in the basket for the discount to be applied.',
     ],
     'services' => [
       'title' => 'Services',
