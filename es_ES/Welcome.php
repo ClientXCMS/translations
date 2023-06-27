@@ -1,7 +1,7 @@
 <?php
 /**$
     Welcome - es_ES
-    CLIENTXCMS Translator system - Exported on 2023-06-27 01:56:43
+    CLIENTXCMS Translator system - Exported on 2023-06-27 12:47:37
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -54,26 +54,26 @@ return [
       'subtitle2' => 'Simplifica tu vida por menos con Larium',
       'rlt' => [
         'title' => 'RTL & LTR',
-        'description' => 'Elige la  <span class="text-primary fw-bold">posición</span> del menú de navegación del cliente desde la configuración del tema.',
+        'description' => 'Elija la <span class="text-primary fw-bold">posición</span> del menú de navegación del cliente desde la configuración del tema.',
       ],
       'nightmode' => [
-        'title' => 'Modo Día y Noche',
-        'description' => 'Elige el <span class="text-primary fw-bold">modo</span> de tu tema: Noche o Día.',
+        'title' => 'Modo día & noche',
+        'description' => 'Elija el <span class="text-primary fw-bold">modo</span> de su tema Noche o Día',
       ],
       'administration' => [
         'title' => 'Gestión desde la administración',
-        'description' => 'No necesita abrir su acceso FTP, realice la personalización directamente desde la administración de <span class="text-primary fw-bold">CLIENTXCMS</span>.',
+        'description' => 'Ya no necesita abrir su acceso FTP, sólo tiene que ir directamente a la administración de <span class="text-primary fw-bold">CLIENTXCMS</span> para personalizar su',
         'list' => [
           'position' => [
             'title' => 'Posiciones',
-            'content' => 'Cambie la posición de los elementos (secciones, menús, deslizadores, enlaces de pie de página) con un simple clic.',
+            'content' => 'Cambie la posición de los elementos (secciones, menús, deslizadores, enlaces de pie de página) con un solo clic.',
           ],
           'component' => [
             'title' => 'Componentes automatizados',
             'content' => 'Los componentes pueden mostrar información de forma dinámica, como anuncios o grupos de productos.',
           ],
           'translation' => [
-            'title' => 'Traducción de componentes',
+            'title' => 'Componentes de traducción',
             'content' => 'Los componentes pueden traducirse según el idioma del usuario.',
           ],
           'flex' => [
@@ -95,34 +95,34 @@ return [
       ],
       'visual' => [
         'title' => 'Sin cambios visuales',
-        'content' => 'Sus clientes no verán la diferencia entre su tienda en línea y su espacio cliente.',
+        'content' => 'Sus clientes no verán la diferencia entre su sitio comercial y su espacio de cliente.',
       ],
       'components' => [
         'title' => 'Componentes interactivos',
-        'content' => 'Añada, modifique o cambie la posición de los componentes en las páginas.',
+        'content' => 'Añadir, modificar, cambiar la posición de los componentes en las páginas.',
       ],
       'personalization' => [
         'title' => 'Personalización',
         'content' => 'Modifique fácilmente el menú de navegación de su empresa o sus redes sociales.',
       ],
     ],
-    'subtitle' => 'Disfruta de una web escaparate incluida en <span class="text-primary fw-bold">CLIENTXCMS</span> de fácil instalación y personalizable a tu gusto.',
-    'notincluded' => 'Tema no incluido por defecto en nuestras ofertas. <a href=\'/Larium\'>A la venta</a>.',
+    'subtitle' => 'Aproveche las ventajas de un sitio de escaparate incluido en <span class="text-primary fw-bold">CLIENTXCMS</span> fácil de instalar y configurable a su gusto.',
+    'notincluded' => 'Tema no incluido en nuestras ofertas por defecto.<a href=\'/Larium\'>Disponible para la compra</a>.',
   ],
   'modulesfeatures' => [
     'title' => 'Nuestros módulos oficiales',
     'title2' => '¿Necesitas otro módulo?',
-    'description2' => '¡Otros módulos <span class="text-primary font-weight-bold">CLIENTXCMS</span> están disponibles en la tienda!',
-    'description' => 'Empieza a trabajar con <span class="text-primary font-weight-bold">CLIENTXCMS</span> y con módulos desarrollados por nosotros para ti.',
+    'description2' => '¡Otros módulos <span class="text-primary font-weight-bold"> CLIENTXCMS </span>están disponibles en la tienda!',
+    'description' => 'Empieza a trabajar con <span class="text-primary font-weight-bold"> CLIENTXCMS </span>y con módulos desarrollados por nosotros para ti.',
     'button' => 'Documentación oficial de CLIENTXCMS',
-    'documentation' => 'Encuentre fácilmente las respuestas a todas sus preguntas gracias a nuestra documentación.',
+    'documentation' => 'Utilice nuestra documentación para encontrar las respuestas a todas sus preguntas.',
   ],
   'documentation' => [
     'title' => 'Documentación',
   ],
   'pricing' => [
     'title' => 'Tarifas',
-    'description' => 'Empieza a trabajar con <span class="text-primary font-weight-bold">CLIENTXCMS</span> y comienza hoy mismo tu negocio de alojamiento web.',
+    'description' => 'Comience con <span class="text-primary font-weight-bold"> CLIENTXCMS </span>y ponga en marcha su negocio de alojamiento web hoy mismo.',
     'formuls' => [
       'hostownserver' => 'Alojado en su propio servidor',
       'custom' => 'Personalizable y configurable',
@@ -130,16 +130,17 @@ return [
       'unlimited' => 'Clientes ilimitados',
       'customers' => 'Hasta <strong>%count%</strong> clientes',
       'modulesfree' => '<strong>%count%</strong> módulos de pago ofrecidos',
-      'modulefree' => '1 módulo de pago incluido',
+      'modulefree' => '1 módulo de pago gratuito',
       'domain' => '1 dominio autorizado',
       'domains' => '%count% dominios autorizados',
       'support' => 'Soporte %support% Incluido',
       'nosourcecode' => 'Código fuente no incluido',
-      'discord' => 'Grado y salas privadas en nuestro discord',
-      'installation' => 'Instalación a cargo de nuestro equipo',
-      'with' => 'recuento de módulos gratuitos',
+      'discord' => 'Rol y canal privado en nuestro discord',
+      'installation' => 'Instalación por nuestro equipo',
+      'with' => 'recuento de módulos libres',
       'themes' => 'recuento de temas ofrecidos',
       'withall' => '%count% módulos de pago gratuitos',
+      'nothostownserver' => 'Alojado en nuestros servidores',
     ],
     'install' => [
       'title' => 'Instalación y configuración',
@@ -153,9 +154,9 @@ return [
       'content' => 'Asegúrese de que su área de clientes es la misma que su sitio web sin transición.',
     ],
     'hosting' => [
-      'title' => 'Alojamiento web',
+      'title' => 'Alojamiento Web',
       'our_hosting' => 'Nuestro alojamiento web',
-      'content' => 'Solicite alojamiento web para su empresa directamente a CLIENTXCMS.',
+      'content' => 'Solicite el alojamiento web para su empresa directamente a CLIENTXCMS.',
     ],
     'reseller' => [
       'title' => 'Revendedor web',
@@ -163,6 +164,15 @@ return [
     ],
     'mail' => [
       'title' => 'Servidor de correo',
+      'content' => 'Solicite un servidor SMTP para su empresa directamente a CLIENTXCMS.',
+    ],
+    'integration' => [
+      'title' => 'Integración de su sitio web',
+      'count' => 'por integración',
+      'content' => 'Asegúrese de que su área de clientes es idéntica a su sitio web.',
+    ],
+    'mailer' => [
+      'title' => 'Servidor de correo electrónico',
       'content' => 'Solicite un servidor SMTP para su empresa directamente a CLIENTXCMS.',
     ],
   ],
@@ -180,7 +190,7 @@ return [
     ],
     'developper' => [
       'title' => 'Fácil de desarrollar',
-      'content' => 'Estamos bien documentados y los recursos de nuestra comunidad facilitan el desarrollo y la personalización de CLIENTXCMS.',
+      'content' => 'Estamos bien documentados y nuestros recursos comunitarios facilitan el desarrollo y la personalización de CLIENTXCMS.',
     ],
     'responsive' => [
       'content' => 'El área de clientes está adaptada a todo tipo de pantallas para mejorar la experiencia del usuario.',
