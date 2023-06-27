@@ -1,7 +1,7 @@
 <?php
 /**$
     Shop - fr_FR
-    CLIENTXCMS Translator system - Exported on 2023-06-25 23:25:02
+    CLIENTXCMS Translator system - Exported on 2023-06-27 01:56:48
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -60,6 +60,7 @@ return [
     'amount' => 'Le montant du panier doit être au moins de %amount%',
     'items' => 'Le panier doit être avoir au moins de %amount% Element',
     'need' => 'Vous devez avoir les services suivants pour ajouter le code promotionnel : %names%',
+    'required' => 'Vous devez avoir un des articles suivantes pour activer la réductions : %names%',
   ],
   'transactionstates' => [
     'Refused' => 'Refusée',
@@ -411,7 +412,7 @@ return [
       'months' => 'Nb. de cycle où la réduction est appliquée',
       'month' => 'Nombre de mois',
       'required' => 'Produit est requis',
-      'requiredsub' => 'Un des produit doit être dans le panier pour que la réduction soit appliquée.',
+      'requiredsub' => 'Un des produit doit être dans le panier pour que la réduction soit appliquée',
     ],
     'services' => [
       'title' => 'Services',
