@@ -1,7 +1,7 @@
 <?php
 /**$
     Welcome - fr_FR
-    CLIENTXCMS Translator system - Exported on 2023-06-27 01:56:47
+    CLIENTXCMS Translator system - Exported on 2023-06-27 12:47:39
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -206,7 +206,7 @@ return [
     ],
     'installation' => [
       'title' => 'Installation en 1 clics',
-      'content' => 'Les modules sont téléchargeables depuis votre espace d\'administration de votre espace client. Ce qui évite de l\'installation complexe. ',
+      'content' => 'Les modules sont téléchargeables depuis votre espace d\'administration de votre espace client. Ce qui évite de l\'installation complexe.',
     ],
     'configurable' => [
       'title' => 'Configurable',
