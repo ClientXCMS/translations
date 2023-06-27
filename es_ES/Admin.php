@@ -1,7 +1,7 @@
 <?php
 /**$
     Admin - es_ES
-    CLIENTXCMS Translator system - Exported on 2023-06-26 06:00:39
+    CLIENTXCMS Translator system - Exported on 2023-06-27 01:56:44
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -68,9 +68,9 @@ return [
       'btntext' => 'Texto del botón',
       'primary' => 'Color primario (sólo Stisla y Regal)',
       'dark' => 'Tema oscuro',
-      'updateglobal' => 'Globalmente',
-      'updateonlyassets' => 'Solo assets',
-      'updateonlyviews' => 'Solo vistas',
+      'updateglobal' => 'En general',
+      'updateonlyassets' => 'Sólo activos',
+      'updateonlyviews' => 'Sólo vistas',
       'noofficial' => 'Cambiar a un tema no oficial',
       'themeemail' => 'Importe aquí su plantilla de correo',
     ],
@@ -243,9 +243,9 @@ return [
         ],
       ],
       'global' => [
-        'logopdf' => 'Logo en PDF',
+        'logopdf' => 'Logo en el PDF',
         'logopdfhelp' => 'Tamaño recomendado: 90x35',
-        'makerenewtransaction_days' => 'No. días antes del vencimiento para generar factura para renovación',
+        'makerenewtransaction_days' => 'Nº de días antes de la expiración para generar la factura de renovación',
         'locale2' => 'Desactivar el cambio de idioma',
         'expire_days' => 'Nº de días para dar de baja el servicio tras la suspensión por caducidad',
         'expire_days2' => 'Una vez transcurrido este periodo, el servicio caducará y se eliminará del servidor.',
