@@ -1,7 +1,7 @@
 <?php
 /**$
     Shop - es_ES
-    CLIENTXCMS Translator system - Exported on 2023-06-27 12:47:38
+    CLIENTXCMS Translator system - Exported on 2023-06-27 12:56:45
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -232,6 +232,7 @@ return [
     ],
     'swap' => [
       'title' => 'Swap adicional',
+      'unit' => 'options.swap.unit',
     ],
     'additional' => 'Complemento',
     'unit_price' => 'Precio por unidad',
