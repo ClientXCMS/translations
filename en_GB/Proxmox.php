@@ -1,7 +1,7 @@
 <?php
 /**$
     Proxmox - en_GB
-    CLIENTXCMS Translator system - Exported on 2023-06-27 01:56:52
+    CLIENTXCMS Translator system - Exported on 2023-06-27 12:56:42
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -95,7 +95,7 @@ return [
         'reinstall' => 'Number of reinstall allowed',
         'backup' => 'Number of backups allowed',
         'nolimit' => '0 for unlimited',
-        'unauthorized' => '0 to deactivate',
+        'unauthorized' => '0 to disable',
       ],
       'converter' => [
         'title' => 'Converter',
