@@ -1,7 +1,7 @@
 <?php
 /**$
     Shop - es_ES
-    CLIENTXCMS Translator system - Exported on 2023-06-27 01:56:47
+    CLIENTXCMS Translator system - Exported on 2023-06-27 12:47:38
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -60,6 +60,7 @@ return [
     'amount' => 'El importe del carro debe ser como mínimo %amount%',
     'items' => 'El carro debe tener al menos  %amount% Elementos',
     'need' => 'Debes tener los siguientes servicios para añadir el código promocional: %names%',
+    'required' => 'Debe tener uno de los siguientes artículos para activar el descuento: %names%.',
   ],
   'transactionstates' => [
     'Refused' => 'Rechazado',
@@ -411,7 +412,7 @@ return [
       'months' => 'Nº de meses en los que se aplica el descuento',
       'month' => 'Nº de meses',
       'required' => 'Producto requerido',
-      'requiredsub' => 'Uno de los productos debe estar en la cesta para que se aplique el descuento.',
+      'requiredsub' => 'Uno de los productos debe estar en la cesta para que se aplique el descuento',
     ],
     'services' => [
       'title' => 'Servicios',
