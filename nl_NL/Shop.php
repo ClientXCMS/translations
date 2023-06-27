@@ -1,7 +1,7 @@
 <?php
 /**$
     Shop - nl_NL
-    CLIENTXCMS Translator system - Exported on 2023-06-25 23:25:05
+    CLIENTXCMS Translator system - Exported on 2023-06-27 12:56:45
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -10,6 +10,7 @@ return [
       'title' => [
         'unit' => '%',
       ],
+      'unit' => 'options.swap.unit',
     ],
   ],
 ];
