@@ -1,7 +1,7 @@
 <?php
 /**$
     Welcome - en_GB
-    CLIENTXCMS Translator system - Exported on 2023-06-27 01:56:50
+    CLIENTXCMS Translator system - Exported on 2023-06-27 12:47:35
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -141,6 +141,7 @@ return [
       'with' => 'count free modules',
       'themes' => 'count offered themes',
       'withall' => '%count% paid modules free',
+      'nothostownserver' => 'Hosted on our servers',
     ],
     'install' => [
       'title' => 'Installation & Setup',
@@ -164,6 +165,15 @@ return [
     ],
     'mail' => [
       'title' => 'Email Server',
+      'content' => 'Order an SMTP server for your company directly from CLIENTXCMS.',
+    ],
+    'integration' => [
+      'title' => 'Website integration',
+      'count' => 'by integration',
+      'content' => 'Make your customer area seamlessly identical to your website!',
+    ],
+    'mailer' => [
+      'title' => 'Email server',
       'content' => 'Order an SMTP server for your company directly from CLIENTXCMS.',
     ],
   ],
@@ -196,7 +206,7 @@ return [
     ],
     'installation' => [
       'title' => 'Installation in 1 click',
-      'content' => 'The modules can be downloaded from your administration area of your customer area. This avoids complex installation. ',
+      'content' => 'The modules can be downloaded from your administration area of your customer area. This avoids complex installation.',
     ],
     'configurable' => [
       'title' => 'Configurable',
