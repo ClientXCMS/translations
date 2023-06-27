@@ -1,7 +1,7 @@
 <?php
 /**$
     Download - fr_FR
-    CLIENTXCMS Translator system - Exported on 2023-06-25 23:24:59
+    CLIENTXCMS Translator system - Exported on 2023-06-27 01:56:49
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -28,5 +28,6 @@ return [
     'globaldownload' => 'Téléchargement pour tous',
     'add' => 'Ajouter',
     'subtitle' => 'Téléchargez-le directement depuis votre CLIENTXCMS',
+    'downloadclientx' => 'Non utilisé',
   ],
 ];
