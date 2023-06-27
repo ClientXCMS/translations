@@ -1,7 +1,7 @@
 <?php
 /**$
     Shop - es_ES
-    CLIENTXCMS Translator system - Exported on 2023-06-26 06:00:40
+    CLIENTXCMS Translator system - Exported on 2023-06-27 01:56:47
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -82,7 +82,7 @@ return [
     'recurring' => [
       'success' => 'Ciclo de facturación modificado con éxito.',
       'error' => 'No se puede cambiar el ciclo de facturación.',
-      'discount' => 'Debe esperar a que finalicen sus ciclos de %months% antes de poder cambiar el ciclo de facturación.',
+      'discount' => 'Debe esperar a que finalice su(s) ciclo(s) de %months% para poder cambiar el ciclo de facturación.',
     ],
     'renew' => [
       'success' => 'Renovación completada',
@@ -98,7 +98,7 @@ return [
     ],
   ],
   'servicespage' => [
-    'crontab' => 'Si su servicio tarda más de 3 minutos en entregarse, verifique que <a href=\'%link%\'>sus tareas CRON</a>  se estén ejecutando correctamente.',
+    'crontab' => 'Si su servicio tarda más de 3 minutos en entregarse, compruebe que <a href=\'%link%\'>sus tareas CRON</a> se están ejecutando correctamente.',
     'renewbywallet' => 'Renovación automática mediante la cartera',
     'renewtitle' => 'Gestor de renovación',
     'password' => 'Cambiar contraseña',
@@ -230,10 +230,7 @@ return [
       'unit' => 'Servidor(es)',
     ],
     'swap' => [
-      'title' => [
-        0 => 'Swap adicional',
-        'unit' => '%',
-      ],
+      'title' => 'Swap adicional',
     ],
     'additional' => 'Complemento',
     'unit_price' => 'Precio por unidad',
@@ -393,7 +390,7 @@ return [
       'headline' => 'Línea principal',
       'parent' => 'Padre',
       'col' => 'Número de columnas',
-      'colproduct' => 'Número de productos en la página del grupo',
+      'colproduct' => 'Número de productos por fila en la página de grupo',
       'name' => 'Nombre del grupo',
       'add' => 'Añadir un producto en este grupo',
       'seeinclientarea' => 'Ver en el área de clientes',
@@ -402,8 +399,8 @@ return [
       'ribbon_color' => 'Color de la cinta (opcional)',
       'ribbon' => 'Texto de la cinta (opcional)',
       'upgradable' => 'Los productos de este grupo son mejorables',
-      'downgradable' => 'Los productos de este grupo se pueden degradar',
-      'pageheadline' => 'Descripción en la página del grupo',
+      'downgradable' => 'Los productos de este grupo pueden degradarse',
+      'pageheadline' => 'Descripción en la página de grupo',
     ],
     'discount' => [
       'title' => 'Descuentos',
@@ -411,8 +408,10 @@ return [
       'global' => '¿El descuento debe estar activo en toda la tienda?',
       'start_at' => 'Inicio',
       'end_at' => 'Fin',
-      'months' => 'No. de ciclo donde se aplica la reducción',
+      'months' => 'Nº de meses en los que se aplica el descuento',
       'month' => 'Nº de meses',
+      'required' => 'Producto requerido',
+      'requiredsub' => 'Uno de los productos debe estar en la cesta para que se aplique el descuento.',
     ],
     'services' => [
       'title' => 'Servicios',
@@ -462,7 +461,7 @@ return [
       'subtitlecreate' => 'Añadir una transacción ya realizada en el sistema.',
       'linktopay' => 'Enlace al pago',
       'sendbyemail' => 'Enviar por email',
-      'createtransaction' => 'Para crear una transacción para un cliente, vaya <a href=\'%link%\'>aquí</a>',
+      'createtransaction' => 'Para crear una transacción para un cliente vaya a <a href=\'%link%\'>aquí</a>',
     ],
     'transactiontemplate' => [
       'title' => 'Transacciones',
