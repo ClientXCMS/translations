@@ -1,7 +1,7 @@
 <?php
 /**$
     Welcome - fr_FR
-    CLIENTXCMS Translator system - Exported on 2023-06-25 23:25:03
+    CLIENTXCMS Translator system - Exported on 2023-06-27 01:56:47
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -37,7 +37,7 @@ return [
     'title' => 'Communauté',
     'twitter' => [
       'title' => 'Twitter',
-      'description' => 'Vous pouvez nous suivre sur Twitter pour être alerté en premier des futures mises à jour.',
+      'description' => 'Vous pouvez nous suivre sur Twitter pour être alerté en premier des futurs postes.',
       'seemore' => 'Voir nos tweets',
     ],
     'discord' => [
