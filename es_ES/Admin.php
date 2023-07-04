@@ -1,7 +1,7 @@
 <?php
 /**$
     Admin - es_ES
-    CLIENTXCMS Translator system - Exported on 2023-06-27 01:56:44
+    CLIENTXCMS Translator system - Exported on 2023-07-04 21:11:57
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -273,6 +273,7 @@ return [
           'diff' => 'Facturación de los costes de instalación restando los costes de instalación de la oferta antigua',
           'disable' => 'Sin gastos de instalación al actualizar el servicio',
         ],
+        'enabledpaywithcredit' => 'Activar la posibilidad de pagar parcialmente las facturas con abonos en cuenta',
       ],
       'mail' => [
         'mailfrom' => 'Dirección de correo electrónico utilizada para enviar correos electrónicos',
