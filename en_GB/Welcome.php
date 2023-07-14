@@ -1,7 +1,7 @@
 <?php
 /**$
     Welcome - en_GB
-    CLIENTXCMS Translator system - Exported on 2023-06-27 12:47:35
+    CLIENTXCMS Translator system - Exported on 2023-07-14 11:22:15
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -176,6 +176,16 @@ return [
       'title' => 'Email server',
       'content' => 'Order an SMTP server for your company directly from CLIENTXCMS.',
     ],
+    'ctxhosting' => [
+      'title' => 'We offer pre-configured packages for hosting providers',
+      'content' => 'CTXHosting is our range of high-quality hosting packages designed for hosting providers from <strong>XX€/month</strong>.',
+      'domain' => 'Buyable .fr domain name',
+      'included' => 'CLIENTXCMS included & preconfigured',
+      'info' => 'Managed Services & Support',
+      'installation' => 'Installation within 48 business hours',
+      'start' => 'from XX€/month',
+      'addon' => 'We offer VPS or HDD PBS storage for your customers.',
+    ],
   ],
   'for' => [
     'services' => [
@@ -222,5 +232,24 @@ return [
     ],
     'title' => 'Our solutions',
     'description' => 'Start working with <span class="text-primary font-weight-bold">CLIENTXCMS</span> which can provide everything you need to generate profit, acquire new customers and a modern user interface.',
+  ],
+  'socialauth' => [
+    'finish' => [
+      'title' => 'Complete my registration',
+    ],
+    'loginwith' => 'Connect with',
+    'signupwith' => 'Register with',
+    'success' => 'Successful login',
+    'already' => 'An account already exists with this e-mail address',
+    'cannotlog' => 'You cannot login or request a password change for this account.',
+    'admin' => [
+      'title' => 'Social Auth',
+      'subtitle' => 'Configure authentication from different services here',
+      'configbtn' => 'Configuring the service',
+      'config' => [
+        'title' => 'Configuration',
+        'subtitle' => 'Configure your secret Id and your client Id for %name%.',
+      ],
+    ],
   ],
 ];
