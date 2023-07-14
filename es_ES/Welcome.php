@@ -1,7 +1,7 @@
 <?php
 /**$
     Welcome - es_ES
-    CLIENTXCMS Translator system - Exported on 2023-06-27 12:47:37
+    CLIENTXCMS Translator system - Exported on 2023-07-14 11:22:19
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -175,6 +175,16 @@ return [
       'title' => 'Servidor de correo electrónico',
       'content' => 'Solicite un servidor SMTP para su empresa directamente a CLIENTXCMS.',
     ],
+    'ctxhosting' => [
+      'title' => 'Ofrecemos paquetes preconfigurados para proveedores de alojamiento',
+      'content' => 'CTXHosting es nuestra gama de paquetes de alojamiento de alta calidad diseñados para proveedores de alojamiento desde <strong>XX€/mes</strong>.',
+      'domain' => 'Nombre de dominio .fr disponible para comprar.',
+      'included' => 'CLIENTXCMS incluido y preconfigurado',
+      'info' => 'Servicios gestionados y asistencia',
+      'installation' => 'Instalación en 48 horas laborables',
+      'start' => 'desde XX€ al mes',
+      'addon' => 'Ofrecemos almacenamiento VPS o HDD PBS para sus clientes.',
+    ],
   ],
   'for' => [
     'services' => [
@@ -221,5 +231,24 @@ return [
     ],
     'title' => 'Nuestras soluciones',
     'description' => 'Comience a trabajar con <span class="text-primary font-weight-bold">CLIENTXCMS</span> que puede proporcionarle todo lo que necesita para generar beneficios, adquirir nuevos clientes y una moderna interfaz de usuario.',
+  ],
+  'socialauth' => [
+    'finish' => [
+      'title' => 'Completar mi inscripción',
+    ],
+    'loginwith' => 'Conectar con',
+    'signupwith' => 'Regístrese en',
+    'success' => 'Inicio de sesión correcto',
+    'already' => 'Ya existe una cuenta con esta dirección de correo electrónico',
+    'cannotlog' => 'No puede iniciar sesión ni solicitar un cambio de contraseña para esta cuenta.',
+    'admin' => [
+      'title' => 'Autorización social',
+      'subtitle' => 'Configure aquí la autenticación desde diferentes servicios',
+      'configbtn' => 'Configurar el servicio',
+      'config' => [
+        'title' => 'Configuración',
+        'subtitle' => 'Configura tu Id secreto y tu Id cliente para %name%.',
+      ],
+    ],
   ],
 ];
