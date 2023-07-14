@@ -1,7 +1,7 @@
 <?php
 /**$
     Shop - en_GB
-    CLIENTXCMS Translator system - Exported on 2023-06-27 12:56:41
+    CLIENTXCMS Translator system - Exported on 2023-07-14 11:22:17
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -150,6 +150,7 @@ return [
       'uncancel' => 'Your service cancellation has just been cancelled',
       'cancel' => 'Your cancellation of service has just been requested',
     ],
+    'makeaction' => 'Perform the action',
   ],
   'order_comment' => [
     'label' => 'Comment',
