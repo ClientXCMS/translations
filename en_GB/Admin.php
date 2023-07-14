@@ -1,7 +1,7 @@
 <?php
 /**$
     Admin - en_GB
-    CLIENTXCMS Translator system - Exported on 2023-07-04 21:11:55
+    CLIENTXCMS Translator system - Exported on 2023-07-14 11:22:15
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -143,6 +143,8 @@ return [
         'title' => 'Module Configuration',
         'subtitle' => 'Configure your API keys for %name%.',
       ],
+      'unofficialtitle' => 'Unofficial modules',
+      'unofficialcat' => 'Here you\'ll find a list of modules detected by the system but not certified by CLIENTXCMS.',
     ],
     'update' => [
       'translations' => [
