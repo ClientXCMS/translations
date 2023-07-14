@@ -1,7 +1,7 @@
 <?php
 /**$
     Welcome - fr_FR
-    CLIENTXCMS Translator system - Exported on 2023-06-27 12:47:39
+    CLIENTXCMS Translator system - Exported on 2023-07-14 11:22:24
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -176,6 +176,16 @@ return [
       'title' => 'Serveur E-mail',
       'content' => 'Commandez un serveur SMTP pour votre entreprise directement chez CLIENTXCMS.',
     ],
+    'ctxhosting' => [
+      'title' => 'Nous proposons des offres préconçues pour hébergeurs',
+      'content' => 'CTXHosting est notre gamme d\'hébergement de haute qualité proposant des offres conçu pour les hébergeurs à partir de <strong>XX€/mois</strong>',
+      'domain' => 'Nom de domaine .fr achetable',
+      'included' => 'CLIENTXCMS inclus dans l\'offre & préconfiguré',
+      'info' => 'Infogérance & Aide',
+      'installation' => 'Installation sous 48 heures ouvrable',
+      'start' => 'à partir de XX€/mois',
+      'addon' => 'Nous proposons des offres VPS ou Stockage HDD PBS pour vos clients.',
+    ],
   ],
   'for' => [
     'services' => [
@@ -222,5 +232,24 @@ return [
     ],
     'title' => 'Nos solutions',
     'description' => 'Commencez à travailler avec <span class="text-primary font-weight-bold">CLIENTXCMS</span> qui peut fournir tout ce dont vous avez besoin pour générer des bénéfices, pour acquérir de nouveaux clients et une interface utilisateur moderne.',
+  ],
+  'socialauth' => [
+    'finish' => [
+      'title' => 'Terminer mon inscription',
+    ],
+    'loginwith' => 'Se connecter avec',
+    'signupwith' => 'S\'inscrire avec',
+    'success' => 'Connexion réussis',
+    'already' => 'Un compte existe déjà avec ce e-mail',
+    'cannotlog' => 'Vous ne pouvez pas vous connecter ou demander un changement de mot de passe sur ce compte',
+    'admin' => [
+      'title' => 'Social Authentification',
+      'subtitle' => 'Configurez les authentication depuis différents services ici',
+      'configbtn' => 'Configurer le service',
+      'config' => [
+        'title' => 'Configuration',
+        'subtitle' => 'Configurez votre secret Id et votre client Id pour %name%',
+      ],
+    ],
   ],
 ];
