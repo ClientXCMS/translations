@@ -1,7 +1,7 @@
 <?php
 /**$
     Shop - es_ES
-    CLIENTXCMS Translator system - Exported on 2023-07-14 11:22:19
+    CLIENTXCMS Translator system - Exported on 2023-07-15 09:01:41
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -151,6 +151,12 @@ return [
       'cancel' => 'Se acaba de solicitar la cancelación del servicio',
     ],
     'makeaction' => 'Realizar la acción',
+    'options' => [
+      'title' => 'Gestión de opciones',
+      'empty' => 'No hay opciones disponibles para este servicio',
+      'your_options' => 'Opciones',
+      'new_price' => 'Precio nuevo',
+    ],
   ],
   'order_comment' => [
     'label' => 'Comentario',
@@ -509,4 +515,5 @@ return [
       ],
     ],
   ],
+  'initial_price' => 'Precio inicial',
 ];
