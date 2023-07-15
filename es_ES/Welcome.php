@@ -1,7 +1,7 @@
 <?php
 /**$
     Welcome - es_ES
-    CLIENTXCMS Translator system - Exported on 2023-07-14 11:22:19
+    CLIENTXCMS Translator system - Exported on 2023-07-15 09:01:42
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -249,6 +249,16 @@ return [
         'title' => 'Configuración',
         'subtitle' => 'Configura tu Id secreto y tu Id cliente para %name%.',
       ],
+    ],
+  ],
+  'seo' => [
+    'admin' => [
+      'title' => 'SEO',
+      'subtitle' => 'Gestión del SEO del sistema',
+      'content' => 'Etiqueta en el encabezamiento',
+      'example' => 'Variables: %url%, %app_name%, %theme_primary%',
+      'urlmatch' => 'URL a la que se añadirán las etiquetas',
+      'help' => '"*" Para mostrar todas las páginas',
     ],
   ],
 ];
