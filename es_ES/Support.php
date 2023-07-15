@@ -1,7 +1,7 @@
 <?php
 /**$
     Support - es_ES
-    CLIENTXCMS Translator system - Exported on 2023-07-04 21:11:56
+    CLIENTXCMS Translator system - Exported on 2023-07-15 09:01:43
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -67,6 +67,11 @@ return [
       'High' => 'Alta',
       'Medium' => 'Media',
       'Low' => 'Baja',
+    ],
+  ],
+  'servicespage' => [
+    'options' => [
+      'manage' => '¿Necesitas una IP adicional o más espacio en disco?',
     ],
   ],
 ];
