@@ -1,7 +1,7 @@
 <?php
 /**$
     Shop - es_ES
-    CLIENTXCMS Translator system - Exported on 2023-07-15 09:01:41
+    CLIENTXCMS Translator system - Exported on 2023-07-18 17:09:28
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -153,9 +153,12 @@ return [
     'makeaction' => 'Realizar la acción',
     'options' => [
       'title' => 'Gestión de opciones',
-      'empty' => 'No hay opciones disponibles para este servicio',
+      'empty' => 'No hay opcion disponible para este servicio',
       'your_options' => 'Opciones',
       'new_price' => 'Precio nuevo',
+      'prorata' => 'Prorata',
+      'per_month' => 'Cada %months% meses',
+      'today' => 'a pagar hoy',
     ],
   ],
   'order_comment' => [
