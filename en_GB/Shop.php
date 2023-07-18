@@ -1,7 +1,7 @@
 <?php
 /**$
     Shop - en_GB
-    CLIENTXCMS Translator system - Exported on 2023-07-15 09:01:39
+    CLIENTXCMS Translator system - Exported on 2023-07-18 17:09:30
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -151,6 +151,15 @@ return [
       'cancel' => 'Your cancellation of service has just been requested',
     ],
     'makeaction' => 'Perform the action',
+    'options' => [
+      'title' => 'Option management',
+      'empty' => 'This service has no available option',
+      'your_options' => 'Your options',
+      'new_price' => 'New price',
+      'prorata' => 'Prorata',
+      'per_month' => 'Every %months% months',
+      'today' => 'to be settled today',
+    ],
   ],
   'order_comment' => [
     'label' => 'Comment',
