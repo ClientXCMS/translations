@@ -1,7 +1,7 @@
 <?php
 /**$
     global - es_ES
-    CLIENTXCMS Translator system - Exported on 2023-07-04 21:11:56
+    CLIENTXCMS Translator system - Exported on 2023-07-18 17:09:29
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -213,4 +213,6 @@ return [
     'info' => 'El mantenimiento está desactivado si está conectado como personal',
   ],
   'paywithcredit' => 'Pagar mis créditos (%wallet%)',
+  'available' => 'Disponible',
+  'old_price' => 'Precio antiguo',
 ];
