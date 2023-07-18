@@ -1,7 +1,7 @@
 <?php
 /**$
     Admin - es_ES
-    CLIENTXCMS Translator system - Exported on 2023-07-14 11:22:18
+    CLIENTXCMS Translator system - Exported on 2023-07-18 17:09:27
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
