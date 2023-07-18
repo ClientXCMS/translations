@@ -1,7 +1,7 @@
 <?php
 /**$
     global - en_GB
-    CLIENTXCMS Translator system - Exported on 2023-07-04 21:11:53
+    CLIENTXCMS Translator system - Exported on 2023-07-18 17:09:32
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -213,4 +213,6 @@ return [
     'info' => 'Maintenance is disabled for you if you are logged in as staff',
   ],
   'paywithcredit' => 'Pay my credits (%wallet%)',
+  'available' => 'Available',
+  'old_price' => 'Old price',
 ];
