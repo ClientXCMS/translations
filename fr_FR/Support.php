@@ -1,7 +1,7 @@
 <?php
 /**$
     Support - fr_FR
-    CLIENTXCMS Translator system - Exported on 2023-07-15 09:01:38
+    CLIENTXCMS Translator system - Exported on 2023-07-18 17:09:26
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -71,7 +71,7 @@ Ne donnez aucune information confidentielle (mots de passe, ...), nos technicien
   ],
   'servicespage' => [
     'options' => [
-      'manage' => 'Besoins d\'une IP supplémentaire ou plus d\'espace disques ?',
+      'manage' => 'Besoin d\'une IP supplémentaire ou plus d\'espace disque ?',
     ],
   ],
 ];
