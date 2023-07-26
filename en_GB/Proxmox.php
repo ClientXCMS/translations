@@ -1,7 +1,7 @@
 <?php
 /**$
     Proxmox - en_GB
-    CLIENTXCMS Translator system - Exported on 2023-06-27 12:56:42
+    CLIENTXCMS Translator system - Exported on 2023-07-26 10:57:47
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
