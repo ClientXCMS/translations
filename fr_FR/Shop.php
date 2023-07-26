@@ -1,7 +1,7 @@
 <?php
 /**$
     Shop - fr_FR
-    CLIENTXCMS Translator system - Exported on 2023-07-18 17:09:25
+    CLIENTXCMS Translator system - Exported on 2023-07-26 10:44:23
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
