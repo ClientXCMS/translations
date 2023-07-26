@@ -1,7 +1,7 @@
 <?php
 /**$
     Pterobox - fr_FR
-    CLIENTXCMS Translator system - Exported on 2023-06-25 23:25:01
+    CLIENTXCMS Translator system - Exported on 2023-07-26 10:44:21
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
