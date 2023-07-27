@@ -1,7 +1,7 @@
 <?php
 /**$
     Account - fr_FR
-    CLIENTXCMS Translator system - Exported on 2023-07-27 10:41:37
+    CLIENTXCMS Translator system - Exported on 2023-07-27 14:04:34
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -42,6 +42,7 @@ return [
         'IpsIgnoreOnLogin' => 'IP pour lesquelles ne pas envoyer d\'e-mail',
         'IpsIgnoreOnLoginsub' => 'Séparées par des virgules',
         'EmailNotificationOnLogin' => 'Recevoir un e-mail lors d\'une connexion',
+        'removetotpKey' => 'Retirer la 2FA du compte',
       ],
       'newsletter' => 'Joignez-vous à notre liste d\'envoi',
     ],
@@ -139,6 +140,9 @@ return [
       'state' => 'État du compte',
       'login' => 'Se connecter en tant que client',
       'createdAt' => 'Enregistré le',
+      'modal' => [
+        'title' => 'Graphique "Comment vous nous avez trouvé ?"',
+      ],
     ],
     'states' => [
       'Pending' => 'Comptes en attente',
