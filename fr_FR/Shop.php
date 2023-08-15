@@ -1,7 +1,7 @@
 <?php
 /**$
     Shop - fr_FR
-    CLIENTXCMS Translator system - Exported on 2023-08-01 14:13:24
+    CLIENTXCMS Translator system - Exported on 2023-08-15 22:16:29
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -521,4 +521,11 @@ return [
   'order' => 'Commander',
   'paymenttype' => 'Type de paiement',
   'initial_price' => 'Prix initial',
+  'admin' => [
+    'servers' => [
+      'forms' => [
+        'iphelp' => 'Vous pouvez mettre l\'URL du panel',
+      ],
+    ],
+  ],
 ];
