@@ -1,36 +1,25 @@
 <?php
 /**$
     Account - en_GB
-    CLIENTXCMS Translator system - Exported on 2023-07-26 13:50:49
+    CLIENTXCMS Translator system - Exported on 2023-08-15 22:16:24
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
-  'how_did_you_find_us' => 'How did you find us ? ',
-  'authentification' => 'Authentication',
-  'question_security' => [
-    'field1' => 'Security question',
-    'field2' => 'Security reply',
-    'title' => 'Security questions',
-    'subtitle' => 'Manage security questions.',
-  ],
   'account' => [
     'delete' => [
-      'title' => 'Account deletion',
-      'subtitle' => 'You can request the deletion of your %app_name% account, all data related to your account will be deleted from our database. The deletion will take place 30 days after the request',
       'subtitle2' => 'Your request to delete account %app_name% was requested on %date%. The deletion will take place on %date2%.',
       'btn' => 'Yes I want to delete my account',
       'btn2' => 'Undelete my account',
       'cancel' => 'Request canceled successfully.',
       'success' => 'Request requested successfully.',
       'flash' => 'Request requested successfully.',
-    ],
-    'states' => [
-      'Pending' => 'Pending users',
-      'Activated' => 'Active users',
-      'Banned' => 'Banned users',
-      'Suspended' => 'Suspended users',
+      'title' => 'Account deletion',
+      'subtitle' => 'You can request the deletion of your %app_name% account, all data related to your account will be deleted from our database. The deletion will take place 30 days after the request',
     ],
     'service' => [
+      'status' => [
+        'update' => 'Updated user status.',
+      ],
       'confirmed' => 'Account successfully confirmed',
       'setuser' => 'You are now logged in as %email%.',
       'logout' => 'You are now logged out of the account.',
@@ -40,9 +29,6 @@ return [
       ],
       'security' => [
         'update' => 'Updated security settings.',
-      ],
-      'status' => [
-        'update' => 'Updated user status.',
       ],
     ],
     'edit' => [
@@ -75,11 +61,11 @@ return [
       'button' => 'Resend email',
     ],
     '2fa' => [
-      'title' => 'Two-factor authentication',
-      'current' => 'Security',
       'enable' => 'Enable security',
       'disable' => 'remove security',
       'codes' => 'Retrieve my unique codes',
+      'current' => 'Security',
+      'title' => 'Two-factor authentication',
     ],
     'signup' => [
       'accepttos' => 'I have read and accept the',
@@ -95,9 +81,9 @@ return [
     'flash' => [
       'suspended' => 'Your account has been suspended, your access is now forbidden. For more details contact an administrator.',
       'banned' => 'Your account has been banned, your access is now forbidden. For more details contact an administrator.',
-      'waiting' => 'Your account is on hold, your access is now restricted. <a href=\'%route%\'>Send</a>.',
-      'ghost' => 'You must have an account to access this page.',
       'deleted' => 'Your account will be deleted on %date%. You can still cancel the request from <a href=\'%route%\'>this page</a>.',
+      'ghost' => 'You must have an account to access this page.',
+      'waiting' => 'Your account is on hold, your access is now restricted. <a href=\'%route%\'>Send</a>.',
     ],
     'reset' => [
       'invalidtoken' => 'The reset link you followed is invalid. Please try again',
@@ -107,19 +93,20 @@ return [
       'button' => 'Reset',
       'step1' => 'Please enter your email address to initiate the reset',
       'step2' => 'Please enter your new password to validate the reset',
+      'pass' => 'Reset',
     ],
     'login' => [
       'last_login' => 'Your last connections',
       'tomanybadcredentials' => 'The account has been locked due to too many login attempts',
       'tologin' => 'Log in',
       'title' => 'Log In',
-      'logohero' => 'Log in to access the customer area',
-      'remember' => 'Remember me',
-      'nocustomeryet' => 'Not yet a customer?',
-      'norecord' => 'Incorrect login or password',
       'admin' => [
         'subtitle' => 'Login to access the administration',
       ],
+      'norecord' => 'Incorrect login or password',
+      'logohero' => 'Log in to access the customer area',
+      'remember' => 'Remember me',
+      'nocustomeryet' => 'Not yet a customer?',
     ],
     'forgot' => [
       'title' => 'Forgot your password?',
@@ -137,10 +124,6 @@ return [
       'emailOnlogin' => 'Email on login',
       'confirm' => 'Automatically confirm user',
       'security' => 'Account security',
-      'state' => 'Account State',
-      'login' => 'Log in as a customer',
-      'createdAt' => 'Registered on',
-      'lastSignAt' => 'Last logged on',
       'lastSignIp' => 'Last logged with',
       'signup_ip' => 'registered with',
       'confirmedAt' => 'Confirmed At',
@@ -151,6 +134,23 @@ return [
       'log' => 'Account History',
       'emptypassword' => 'left blank for no modification.',
       'emptyreset' => 'Leave empty to reset the value',
+      'lastSignAt' => 'Last logged on',
+      'state' => 'Account State',
+      'login' => 'Log in as a customer',
+      'createdAt' => 'Registered on',
     ],
+    'states' => [
+      'Pending' => 'Pending users',
+      'Activated' => 'Active users',
+      'Banned' => 'Banned users',
+      'Suspended' => 'Suspended users',
+    ],
+  ],
+  'how_did_you_find_us' => 'How did you find us ? ',
+  'question_security' => [
+    'field1' => 'Security question',
+    'field2' => 'Security reply',
+    'title' => 'Security questions',
+    'subtitle' => 'Manage security questions.',
   ],
 ];
