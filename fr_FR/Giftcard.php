@@ -1,7 +1,7 @@
 <?php
 /**$
     Giftcard - fr_FR
-    CLIENTXCMS Translator system - Exported on 2023-07-26 13:50:49
+    CLIENTXCMS Translator system - Exported on 2023-08-15 22:16:27
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -15,7 +15,7 @@ return [
       'notfound' => 'Ce code est introuvable',
     ],
     'admin' => [
-      'subtitle' => 'Gérer vos cartes cadeaux du système.',
+      'subtitle' => 'Gérez vos cartes cadeaux du système.',
       'code' => 'Code',
       'maxusages' => 'Utilisations max du code',
       'usages' => 'Utilisé par %utilisation% / %max%',
