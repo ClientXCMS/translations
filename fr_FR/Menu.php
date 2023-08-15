@@ -1,22 +1,22 @@
 <?php
 /**$
     Menu - fr_FR
-    CLIENTXCMS Translator system - Exported on 2023-07-26 13:50:49
+    CLIENTXCMS Translator system - Exported on 2023-08-15 22:16:27
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
   'menu' => [
-    'title' => 'Menu',
-    'settingtitle' => 'Menu titre',
-    'subtitle' => 'Gérez les liens dans le menu.',
-    'blank' => 'Ouvrir dans une nouvelle fenêtre',
-    'redirect' => 'Redirection',
-    'badge' => 'insigne',
     'user' => 'Utilisateur',
     'users' => [
       'global' => 'Visiteurs & connectés',
       'online' => 'Clients connectés',
       'offline' => 'Visiteur',
     ],
+    'title' => 'Menu',
+    'settingtitle' => 'Menu titre',
+    'subtitle' => 'Gérez les liens dans le menu.',
+    'blank' => 'Ouvrir dans une nouvelle fenêtre',
+    'redirect' => 'Redirection',
+    'badge' => 'Badge',
   ],
 ];
