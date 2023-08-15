@@ -1,11 +1,16 @@
 <?php
 /**$
     Page - fr_FR
-    CLIENTXCMS Translator system - Exported on 2023-07-26 13:50:49
+    CLIENTXCMS Translator system - Exported on 2023-08-15 23:55:18
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
   'pagemodule' => [
+    'users' => [
+      'online' => 'Client connecté',
+      'offline' => 'Visiteur',
+      'global' => 'Visiteur & Connecté',
+    ],
     'admin' => [
       'title' => 'Page',
       'subtitle' => 'Gérer le système de pages.',
@@ -13,10 +18,7 @@ return [
     'author' => 'Auteur',
     'published' => 'Publié?',
     'user' => 'Utilisateur',
-    'users' => [
-      'global' => 'Visiteur & Connecté',
-      'online' => 'Client connecté',
-      'offline' => 'Visiteur',
-    ],
+    'createdonly' => 'Créer le %created% par %author%',
+    'createdupdated' => 'Créer le %created% par %author% et modifié le %updated%',
   ],
 ];
