@@ -1,33 +1,27 @@
 <?php
 /**$
     Download - en_GB
-    CLIENTXCMS Translator system - Exported on 2023-07-26 13:50:50
+    CLIENTXCMS Translator system - Exported on 2023-08-19 13:28:38
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
-  'download' => [
-    'config' => [
-      'title' => 'Download setup',
-      'subtitle' => 'Manage the features of the offer.',
-      'clientsonly' => 'Allow download to clients only',
-      'filename' => 'Document name',
-      'maxdownload' => 'No. download allowed per customer (0 for no limitation)',
-      'maxdownloadhelp' => 'Available only when \'Client only\' option is enabled',
-      'type' => 'Document type',
-    ],
-    'admin' => [
-      'title' => 'Configuring downloads',
-      'subtitle' => 'Manager the offer configurations.',
-      'addtouser' => 'Add to user',
-    ],
-    'title' => 'Download',
-    'your_download' => 'Your downloads',
-    'product' => 'Our downloadable products',
-    'reachedmaxdownload' => 'You have reached the file download limit.',
-    'friendlyname' => 'Appearance name',
-    'globaldownload' => 'Download for all',
-    'add' => 'Add',
-    'subtitle' => 'Download it directly from your CLIENTXCMS',
-    'downloadclientx' => 'Not used',
-  ],
+  'download.config.maxdownload' => 'No. download allowed per customer (0 for no limitation)',
+  'download.config.maxdownloadhelp' => 'Available only when \'Client only\' option is enabled',
+  'download.config.type' => 'Document type',
+  'download.admin.title' => 'Configuring downloads',
+  'download.admin.subtitle' => 'Manager the offer configurations.',
+  'download.admin.addtouser' => 'Add to user',
+  'download.title' => 'Download',
+  'download.your_download' => 'Your downloads',
+  'download.product' => 'Our downloadable products',
+  'download.reachedmaxdownload' => 'You have reached the file download limit.',
+  'download.config.title' => 'Download setup',
+  'download.config.subtitle' => 'Manage the features of the offer.',
+  'download.config.clientsonly' => 'Allow download to clients only',
+  'download.config.filename' => 'Document name',
+  'download.add' => 'Add',
+  'download.subtitle' => 'Download it directly from your CLIENTXCMS',
+  'download.friendlyname' => 'Appearance name',
+  'download.globaldownload' => 'Download for all',
+  'download.downloadclientx' => 'Not used',
 ];

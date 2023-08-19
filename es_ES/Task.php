@@ -1,19 +1,17 @@
 <?php
 /**$
     Task - es_ES
-    CLIENTXCMS Translator system - Exported on 2023-07-26 13:50:50
+    CLIENTXCMS Translator system - Exported on 2023-08-19 13:28:38
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
-  'task' => [
-    'title' => 'Tareas',
-    'subtitle' => 'Administrar las tareas en el sistema..',
-    'operational' => 'Todos los sistemas activos.',
-    'notoperational' => 'No todos los sistemas están activos.',
-    'category' => 'Categoria',
-    'progress' => 'Progreso',
-    'content' => 'Detalles del contenido',
-    'services' => 'Servicios en cuestión',
-    'comment' => 'Comentario',
-  ],
+  'task.progress' => 'Progreso',
+  'task.content' => 'Detalles del contenido',
+  'task.services' => 'Servicios en cuestión',
+  'task.comment' => 'Comentario',
+  'task.subtitle' => 'Administrar las tareas en el sistema..',
+  'task.operational' => 'Todos los sistemas activos.',
+  'task.notoperational' => 'No todos los sistemas están activos.',
+  'task.category' => 'Categoria',
+  'task.title' => 'Tareas',
 ];

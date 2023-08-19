@@ -1,19 +1,15 @@
 <?php
 /**$
     Location - en_GB
-    CLIENTXCMS Translator system - Exported on 2023-07-26 13:50:50
+    CLIENTXCMS Translator system - Exported on 2023-08-19 13:28:38
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
-  'location' => [
-    'choose' => 'Choose the service location',
-    'admin' => [
-      'title' => 'Location',
-      'subtitle' => 'Management of service locations.',
-    ],
-    'image' => 'Image URL',
-    'description' => 'More detailed description',
-    'longname' => 'Long name (e.g., English)',
-    'shortname' => 'Short name (e.g., EN)',
-  ],
+  'location.admin.title' => 'Location',
+  'location.admin.subtitle' => 'Management of service locations.',
+  'location.image' => 'Image URL',
+  'location.choose' => 'Choose the service location',
+  'location.description' => 'More detailed description',
+  'location.longname' => 'Long name (e.g., English)',
+  'location.shortname' => 'Short name (e.g., EN)',
 ];

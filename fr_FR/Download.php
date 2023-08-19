@@ -1,33 +1,27 @@
 <?php
 /**$
     Download - fr_FR
-    CLIENTXCMS Translator system - Exported on 2023-07-26 13:50:49
+    CLIENTXCMS Translator system - Exported on 2023-08-19 13:28:38
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
-  'download' => [
-    'config' => [
-      'title' => 'Configuration du téléchargement',
-      'subtitle' => 'Administrez les caractèristiques de l\'offre.',
-      'clientsonly' => 'Autoriser le téléchargement aux clients uniquement',
-      'filename' => 'Nom du document',
-      'maxdownload' => 'Nombre de téléchargements autorisés par client (0 pour aucune limitation)',
-      'maxdownloadhelp' => 'Disponible uniquement lorsque l\'option "Client uniquement" est activée',
-      'type' => 'Type de document',
-    ],
-    'admin' => [
-      'title' => 'Configuration des téléchargements',
-      'subtitle' => 'Administez les différentes configurations d\'offres.',
-      'addtouser' => 'Ajouter à l\'utilisateur',
-    ],
-    'title' => 'Téléchargements',
-    'your_download' => 'Vos téléchargements',
-    'product' => 'Nos produits téléchargables',
-    'reachedmaxdownload' => 'Vous avez atteint la limite de téléchargement du fichier.',
-    'friendlyname' => 'Nom d\'apparence',
-    'globaldownload' => 'Téléchargement pour tous',
-    'add' => 'Ajouter',
-    'subtitle' => 'Téléchargez-le directement depuis votre CLIENTXCMS',
-    'downloadclientx' => 'Non utilisé',
-  ],
+  'download.config.maxdownload' => 'Nombre de téléchargements autorisés par client (0 pour aucune limitation)',
+  'download.config.maxdownloadhelp' => 'Disponible uniquement lorsque l\'option "Client uniquement" est activée',
+  'download.config.type' => 'Type de document',
+  'download.admin.title' => 'Configuration des téléchargements',
+  'download.admin.subtitle' => 'Administez les différentes configurations d\'offres.',
+  'download.admin.addtouser' => 'Ajouter à l\'utilisateur',
+  'download.title' => 'Téléchargements',
+  'download.your_download' => 'Vos téléchargements',
+  'download.product' => 'Nos produits téléchargables',
+  'download.reachedmaxdownload' => 'Vous avez atteint la limite de téléchargement du fichier.',
+  'download.config.title' => 'Configuration du téléchargement',
+  'download.config.subtitle' => 'Administrez les caractèristiques de l\'offre.',
+  'download.config.clientsonly' => 'Autoriser le téléchargement aux clients uniquement',
+  'download.config.filename' => 'Nom du document',
+  'download.add' => 'Ajouter',
+  'download.subtitle' => 'Téléchargez-le directement depuis votre CLIENTXCMS',
+  'download.friendlyname' => 'Nom d\'apparence',
+  'download.globaldownload' => 'Téléchargement pour tous',
+  'download.downloadclientx' => 'Non utilisé',
 ];

@@ -1,43 +1,33 @@
 <?php
 /**$
     cPanel - es_ES
-    CLIENTXCMS Translator system - Exported on 2023-07-26 13:50:50
+    CLIENTXCMS Translator system - Exported on 2023-08-19 13:28:38
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
-  'cpanel' => [
-    'form' => [
-      'plan_name' => 'Nombre del plan',
-      'title' => 'Configuración',
-    ],
-    'config' => [
-      'title' => 'Configure su oferta de cPanel',
-      'subtitle' => 'Administrar las características de la oferta',
-    ],
-    'admin' => [
-      'title' => 'Configurar cPanel',
-      'subtitle' => 'Administrar las configuraciones de sus ofertas',
-      'planname' => 'cPanel plan',
-      'productname' => 'Nombre del producto',
-      'type' => 'Tipo',
-    ],
-    'reseller' => 'Distribuidor',
-    'hosting' => 'Alojamiento',
-    'panel' => [
-      'button' => 'Inicio de sesión automático',
-      'preview' => 'Preview',
-      'webmail' => 'Acceso al webmail',
-      'info' => 'Información',
-      'information' => 'Información sobre el servicio',
-      'problem' => '¿Tienes algún problema con el alojamiento?',
-      'openticket' => '¡Abre un ticket!',
-      'opensite' => 'Ir al sitio',
-      'sql' => 'Número máximo de bases de datos',
-      'ftp' => 'Número máximo de cuentas FTP',
-      'sub' => 'Número máximo de subdominios',
-      'parked' => 'Número máximo de dominios',
-      'pop' => 'Número máximo de listas de correo',
-      'disk' => 'Espacio de disco asignado',
-    ],
-  ],
+  'cpanel.admin.type' => 'Tipo',
+  'cpanel.reseller' => 'Distribuidor',
+  'cpanel.hosting' => 'Alojamiento',
+  'cpanel.panel.disk' => 'Espacio de disco asignado',
+  'cpanel.form.plan_name' => 'Nombre del plan',
+  'cpanel.form.title' => 'Configuración',
+  'cpanel.config.title' => 'Configure su oferta de cPanel',
+  'cpanel.config.subtitle' => 'Administrar las características de la oferta',
+  'cpanel.admin.title' => 'Configurar cPanel',
+  'cpanel.admin.subtitle' => 'Administrar las configuraciones de sus ofertas',
+  'cpanel.admin.planname' => 'cPanel plan',
+  'cpanel.admin.productname' => 'Nombre del producto',
+  'cpanel.panel.information' => 'Información sobre el servicio',
+  'cpanel.panel.problem' => '¿Tienes algún problema con el alojamiento?',
+  'cpanel.panel.openticket' => '¡Abre un ticket!',
+  'cpanel.panel.opensite' => 'Ir al sitio',
+  'cpanel.panel.sql' => 'Número máximo de bases de datos',
+  'cpanel.panel.ftp' => 'Número máximo de cuentas FTP',
+  'cpanel.panel.sub' => 'Número máximo de subdominios',
+  'cpanel.panel.parked' => 'Número máximo de dominios',
+  'cpanel.panel.pop' => 'Número máximo de listas de correo',
+  'cpanel.panel.button' => 'Inicio de sesión automático',
+  'cpanel.panel.preview' => 'Preview',
+  'cpanel.panel.webmail' => 'Acceso al webmail',
+  'cpanel.panel.info' => 'Información',
 ];

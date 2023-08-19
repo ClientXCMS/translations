@@ -1,20 +1,19 @@
 <?php
 /**$
     Basket - fr_FR
-    CLIENTXCMS Translator system - Exported on 2023-07-26 13:50:49
+    CLIENTXCMS Translator system - Exported on 2023-08-19 13:28:38
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
+  'data.qty' => 'Données / Quantité',
+  'basket.cancel' => 'Paiement annulé avec succès.',
   'data' => 'Données',
-  'basket' => [
-    'title' => 'Panier',
-    'empty' => 'Panier vide',
-    'checkout' => 'Valider',
-    'added' => 'Produit ajouté avec succès.',
-    'cancel' => 'Paiement annulé avec succès.',
-  ],
   'out_stock' => 'Rupture de stock',
   'buy' => 'Acheter',
   'add_cart' => 'Ajouter au panier',
   'qty' => 'Quantité',
+  'basket.title' => 'Panier',
+  'basket.empty' => 'Panier vide',
+  'basket.checkout' => 'Valider',
+  'basket.added' => 'Produit ajouté avec succès.',
 ];

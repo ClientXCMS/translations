@@ -1,20 +1,16 @@
 <?php
 /**$
     Backup - fr_FR
-    CLIENTXCMS Translator system - Exported on 2023-07-26 13:50:49
+    CLIENTXCMS Translator system - Exported on 2023-08-19 13:28:38
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
-  'backup' => [
-    'size' => 'Taille',
-    'title' => 'Sauvegardes',
-    'subtitle' => 'Administrez vos sauvegardes du système.',
-    'add' => 'Sauvegarder manuel',
-    'settings' => [
-      'max_keeping' => 'Nombre maximum de sauvegardes gardées en mémoire',
-      'between_backup' => 'Heures entre deux sauvegardes',
-      'connectwithgoogle' => 'Connexion vers google',
-      'detected' => 'Types de sauvegarde détectés',
-    ],
-  ],
+  'backup.size' => 'Taille',
+  'backup.title' => 'Sauvegardes',
+  'backup.subtitle' => 'Administrez vos sauvegardes du système.',
+  'backup.add' => 'Sauvegarder manuel',
+  'backup.settings.max_keeping' => 'Nombre maximum de sauvegardes gardées en mémoire',
+  'backup.settings.between_backup' => 'Heures entre deux sauvegardes',
+  'backup.settings.connectwithgoogle' => 'Connexion vers google',
+  'backup.settings.detected' => 'Types de sauvegarde détectés',
 ];

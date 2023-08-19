@@ -1,24 +1,20 @@
 <?php
 /**$
     Contact - en_GB
-    CLIENTXCMS Translator system - Exported on 2023-07-26 13:50:49
+    CLIENTXCMS Translator system - Exported on 2023-08-19 13:28:38
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
-  'contact' => [
-    'title' => 'Your contact requests',
-    'show' => 'Contact us',
-    'subtitle' => 'History of requests from the contact page.',
-    'success' => 'Application sent successfully.',
-    'failure' => 'You have made too many consecutive contact requests.',
-    'recontact' => 'Recontact',
-    'emaillist' => 'Inbox address',
-    'details' => 'Details',
-    'hours' => 'Time in hours between requests',
-    'webhook' => 'Link',
-    'enablewebhook' => 'Webhook activation',
-    'email' => [
-      'button' => 'See more',
-    ],
-  ],
+  'contact.title' => 'Your contact requests',
+  'contact.show' => 'Contact us',
+  'contact.subtitle' => 'History of requests from the contact page.',
+  'contact.success' => 'Application sent successfully.',
+  'contact.failure' => 'You have made too many consecutive contact requests.',
+  'contact.recontact' => 'Recontact',
+  'contact.enablewebhook' => 'Webhook activation',
+  'contact.email.button' => 'See more',
+  'contact.emaillist' => 'Inbox address',
+  'contact.details' => 'Details',
+  'contact.hours' => 'Time in hours between requests',
+  'contact.webhook' => 'Link',
 ];

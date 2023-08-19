@@ -1,19 +1,13 @@
 <?php
 /**$
     Event - fr_FR
-    CLIENTXCMS Translator system - Exported on 2023-07-26 13:50:49
+    CLIENTXCMS Translator system - Exported on 2023-08-19 13:28:38
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
-  'eventmodule' => [
-    'Halloween' => [
-      'enable' => 'Activer les chauves-souris',
-      'disable' => 'Désactiver les chauves-souris',
-    ],
-    'Christmas\'s' => [
-      'enable' => 'Activer les flocons',
-      'disable' => 'Désactiver les flocons',
-    ],
-    'dashboard' => 'L\'évenement %name% se termine %date%',
-  ],
+  'eventmodule.Christmas\'s.enable' => 'Activer les flocons',
+  'eventmodule.Christmas\'s.disable' => 'Désactiver les flocons',
+  'eventmodule.dashboard' => 'L\'évenement %name% se termine %date%',
+  'eventmodule.Halloween.enable' => 'Activer les chauves-souris',
+  'eventmodule.Halloween.disable' => 'Désactiver les chauves-souris',
 ];
