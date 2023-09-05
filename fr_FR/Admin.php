@@ -1,7 +1,7 @@
 <?php
 /**$
     Admin - fr_FR
-    CLIENTXCMS Translator system - Exported on 2023-08-19 13:28:38
+    CLIENTXCMS Translator system - Exported on 2023-09-05 17:56:28
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -288,4 +288,7 @@ return [
   'admin.modules.unofficialcat' => 'Vous retrouvez ici la liste des modules détectés par le système mais non certifié par CLIENTXCMS.',
   'admin.report.cron.deleteorder' => 'Annuler les commandes en attentes',
   'admin.report.cron.deleteordersuccess' => 'Annulation de %items% commandes avec succès.',
+  'admin.settings.security.captcha.cloudflare.title' => 'Configurer la protection Cloudflare Turnstile',
+  'admin.settings.security.captcha.cloudflare.content' => 'Vous pouvez obtenir des clés Cloudflare Turnstile sur le <a href="https://dash.cloudflare.com/" target="_blank" rel="noopener noreferrer">Site Web de Cloudflare</a>',
+  'admin.staffs.authorized_ips' => 'IPs autorisées à se connecter au compte',
 ];
