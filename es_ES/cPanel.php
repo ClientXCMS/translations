@@ -1,7 +1,7 @@
 <?php
 /**$
     cPanel - es_ES
-    CLIENTXCMS Translator system - Exported on 2023-08-19 13:28:38
+    CLIENTXCMS Translator system - Exported on 2023-09-05 17:56:20
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -30,4 +30,5 @@ return [
   'cpanel.panel.preview' => 'Preview',
   'cpanel.panel.webmail' => 'Acceso al webmail',
   'cpanel.panel.info' => 'Información',
+  'cpanel.panel.unlimited' => 'Ilimitado',
 ];
