@@ -1,7 +1,7 @@
 <?php
 /**$
     Shop - es_ES
-    CLIENTXCMS Translator system - Exported on 2023-08-19 13:28:38
+    CLIENTXCMS Translator system - Exported on 2023-09-05 17:56:26
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -385,4 +385,5 @@ return [
   'servicespage.subscription.addsubscription' => 'Puede solicitar una suscripción automática a este servicio. Se le cargarán %price% el %date%',
   'servicespage.subscription.makesubscription' => 'Suscribirse',
   'servicespage.subscription.manage' => 'Gestionar la suscripción',
+  'groupnotavailable' => 'No hay productos disponibles en este grupo.',
 ];
