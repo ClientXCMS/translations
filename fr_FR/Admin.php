@@ -1,7 +1,7 @@
 <?php
 /**$
     Admin - fr_FR
-    CLIENTXCMS Translator system - Exported on 2023-09-05 17:56:28
+    CLIENTXCMS Translator system - Exported on 2023-09-09 10:11:23
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -291,4 +291,6 @@ return [
   'admin.settings.security.captcha.cloudflare.title' => 'Configurer la protection Cloudflare Turnstile',
   'admin.settings.security.captcha.cloudflare.content' => 'Vous pouvez obtenir des clés Cloudflare Turnstile sur le <a href="https://dash.cloudflare.com/" target="_blank" rel="noopener noreferrer">Site Web de Cloudflare</a>',
   'admin.staffs.authorized_ips' => 'IPs autorisées à se connecter au compte',
+  'community' => 'Communauté',
+  'menuadmin.serviceprovision' => 'Prestation de service',
 ];
