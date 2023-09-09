@@ -1,7 +1,7 @@
 <?php
 /**$
     Shop - en_GB
-    CLIENTXCMS Translator system - Exported on 2023-09-05 17:56:18
+    CLIENTXCMS Translator system - Exported on 2023-09-09 10:11:25
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -383,4 +383,5 @@ return [
   'servicespage.options.per_month' => 'Every %months% months',
   'servicespage.options.today' => 'to be settled today',
   'groupnotavailable' => 'No products available in this group.',
+  'payments' => 'Payments',
 ];
