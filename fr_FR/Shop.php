@@ -1,7 +1,7 @@
 <?php
 /**$
     Shop - fr_FR
-    CLIENTXCMS Translator system - Exported on 2023-09-05 17:56:27
+    CLIENTXCMS Translator system - Exported on 2023-09-09 10:11:24
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -388,4 +388,5 @@ return [
   'admin.servers.forms.iphelp' => 'Vous pouvez mettre l\'URL du panel',
   'shopadmin.services.webhook.title' => 'Executer une webhook lors d\'un renouvellement',
   'groupnotavailable' => 'Aucun produit disponible dans ce groupe.',
+  'payments' => 'Paiements',
 ];
