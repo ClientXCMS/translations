@@ -1,7 +1,7 @@
 <?php
 /**$
     cPanel - en_GB
-    CLIENTXCMS Translator system - Exported on 2023-08-19 13:28:38
+    CLIENTXCMS Translator system - Exported on 2023-09-10 14:40:48
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -30,5 +30,7 @@ return [
   'cpanel.panel.preview' => 'Preview',
   'cpanel.panel.webmail' => 'Webmail access',
   'cpanel.panel.info' => 'Informations',
+  'cpanel.admin.manual.resetpwd' => 'Reset account password',
+  'cpanel.admin.manual.noresetpwd' => 'Do not reset account password',
   'cpanel.panel.unlimited' => 'Unlimited',
 ];
