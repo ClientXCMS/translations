@@ -1,7 +1,7 @@
 <?php
 /**$
     Shop - en_GB
-    CLIENTXCMS Translator system - Exported on 2023-09-09 10:11:25
+    CLIENTXCMS Translator system - Exported on 2023-09-10 14:40:45
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -382,6 +382,11 @@ return [
   'servicespage.options.prorata' => 'Prorata',
   'servicespage.options.per_month' => 'Every %months% months',
   'servicespage.options.today' => 'to be settled today',
+  'servicespage.subscription.addsubscription' => 'You can request a subscription automatically for this service. You will be charged the %date% of €%price%',
+  'servicespage.subscription.makesubscription' => 'Subscribe',
+  'servicespage.subscription.manage' => 'Manage subscription',
+  'admin.servers.forms.iphelp' => 'You can put the panel URL',
+  'shopadmin.services.webhook.title' => 'Execute a webhook during a renewal',
   'groupnotavailable' => 'No products available in this group.',
   'payments' => 'Payments',
 ];
