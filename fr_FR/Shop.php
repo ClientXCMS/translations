@@ -1,7 +1,7 @@
 <?php
 /**$
     Shop - fr_FR
-    CLIENTXCMS Translator system - Exported on 2023-09-09 10:11:24
+    CLIENTXCMS Translator system - Exported on 2023-09-10 14:40:48
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -382,7 +382,7 @@ return [
   'servicespage.options.prorata' => 'Prorata',
   'servicespage.options.per_month' => 'Tout les %months% mois',
   'servicespage.options.today' => 'à régler aujourd\'hui',
-  'servicespage.subscription.addsubscription' => 'Vous pouvez demander un abonnement automatiquement pour ce service. Vous serez débiter le %date% de %price%',
+  'servicespage.subscription.addsubscription' => 'Vous pouvez demander un abonnement automatiquement pour ce service. Vous serez débiter le %date% de %price%€',
   'servicespage.subscription.makesubscription' => 'S\'abonner',
   'servicespage.subscription.manage' => 'Gérer l\'abonnement',
   'admin.servers.forms.iphelp' => 'Vous pouvez mettre l\'URL du panel',
