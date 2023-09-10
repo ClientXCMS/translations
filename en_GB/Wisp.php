@@ -1,7 +1,7 @@
 <?php
 /**$
     Wisp - en_GB
-    CLIENTXCMS Translator system - Exported on 2023-08-19 13:28:38
+    CLIENTXCMS Translator system - Exported on 2023-09-10 14:40:44
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -70,4 +70,5 @@ return [
   'Wisp.form.configurations.dedicatedip' => 'Addresse IP dedicatedip',
   'Wisp.form.converter.title' => 'Converter',
   'Wisp.form.converter.mb' => 'Type your number in MB',
+  'wisp.admin.migratebtn' => 'Migration area',
 ];
