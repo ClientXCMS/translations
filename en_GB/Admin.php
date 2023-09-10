@@ -1,7 +1,7 @@
 <?php
 /**$
     Admin - en_GB
-    CLIENTXCMS Translator system - Exported on 2023-08-19 13:28:38
+    CLIENTXCMS Translator system - Exported on 2023-09-10 14:40:46
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -280,4 +280,11 @@ return [
   'admin.settings.global.enabledpaywithcredit' => 'Activate the possibility of partially paying invoices with account credits',
   'admin.modules.unofficialtitle' => 'Unofficial modules',
   'admin.modules.unofficialcat' => 'Here you\'ll find a list of modules detected by the system but not certified by CLIENTXCMS.',
+  'admin.report.cron.deleteorder' => 'Cancel pending orders',
+  'admin.report.cron.deleteordersuccess' => 'Cancellation of %item% orders successfully.',
+  'admin.settings.security.captcha.cloudflare.title' => 'Configure Cloudflare Turnstile protection',
+  'admin.settings.security.captcha.cloudflare.content' => 'You can get Cloudflare Turnstile keys on the <a href="https://dash.cloudflare.com/" target="_blank" rel="noopener noreferrer">Cloudflare website</a>',
+  'admin.staffs.authorized_ips' => 'Authorized IPs to connect to the account',
+  'community' => 'Community',
+  'menuadmin.serviceprovision' => 'Service provision',
 ];
