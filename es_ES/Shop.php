@@ -1,7 +1,7 @@
 <?php
 /**$
     Shop - es_ES
-    CLIENTXCMS Translator system - Exported on 2023-09-05 17:56:26
+    CLIENTXCMS Translator system - Exported on 2023-09-10 14:40:49
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -382,7 +382,7 @@ return [
   'servicespage.options.prorata' => 'Prorata',
   'servicespage.options.per_month' => 'Cada %months% meses',
   'servicespage.options.today' => 'a pagar hoy',
-  'servicespage.subscription.addsubscription' => 'Puede solicitar una suscripción automática a este servicio. Se le cargarán %price% el %date%',
+  'servicespage.subscription.addsubscription' => 'Puede solicitar una suscripción automática a este servicio. Se le cargarán %price%€ el %date%',
   'servicespage.subscription.makesubscription' => 'Suscribirse',
   'servicespage.subscription.manage' => 'Gestionar la suscripción',
   'groupnotavailable' => 'No hay productos disponibles en este grupo.',
