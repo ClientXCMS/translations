@@ -1,7 +1,7 @@
 <?php
 /**$
     Admin - fr_FR
-    CLIENTXCMS Translator system - Exported on 2023-09-09 10:11:23
+    CLIENTXCMS Translator system - Exported on 2023-09-18 18:25:39
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -293,4 +293,5 @@ return [
   'admin.staffs.authorized_ips' => 'IPs autorisées à se connecter au compte',
   'community' => 'Communauté',
   'menuadmin.serviceprovision' => 'Prestation de service',
+  'admin.settings.global.ondemand_redirect' => 'URL de redirection "offre sur demande"',
 ];
