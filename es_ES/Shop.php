@@ -1,7 +1,7 @@
 <?php
 /**$
     Shop - es_ES
-    CLIENTXCMS Translator system - Exported on 2023-09-10 14:40:49
+    CLIENTXCMS Translator system - Exported on 2023-09-18 18:25:43
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -385,5 +385,8 @@ return [
   'servicespage.subscription.addsubscription' => 'Puede solicitar una suscripción automática a este servicio. Se le cargarán %price%€ el %date%',
   'servicespage.subscription.makesubscription' => 'Suscribirse',
   'servicespage.subscription.manage' => 'Gestionar la suscripción',
+  'admin.servers.forms.iphelp' => 'Puedes poner la URL del panel',
+  'shopadmin.services.webhook.title' => 'Ejecutar un webhook durante una renovación',
   'groupnotavailable' => 'No hay productos disponibles en este grupo.',
+  'payments' => 'Pagos',
 ];
