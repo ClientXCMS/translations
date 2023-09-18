@@ -1,7 +1,7 @@
 <?php
 /**$
     global - es_ES
-    CLIENTXCMS Translator system - Exported on 2023-08-19 13:28:38
+    CLIENTXCMS Translator system - Exported on 2023-09-18 18:25:46
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -73,7 +73,7 @@ return [
   'recurrings.onetime' => 'Una vez',
   'your_email' => 'Su correo electrónico',
   'your_subject' => 'Su asunto',
-  'Wallet' => 'su cartera',
+  'wallet' => 'su cartera',
   'send' => 'Enviar',
   'license' => 'Licencia',
   'remainingscustomers' => 'Clientes restantes',
@@ -192,4 +192,5 @@ return [
   'paywithcredit' => 'Pagar mis créditos (%wallet%)',
   'available' => 'Disponible',
   'old_price' => 'Precio antiguo',
+  'payment' => 'Pago',
 ];
