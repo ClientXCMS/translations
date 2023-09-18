@@ -1,7 +1,7 @@
 <?php
 /**$
     Shop - fr_FR
-    CLIENTXCMS Translator system - Exported on 2023-09-10 14:40:48
+    CLIENTXCMS Translator system - Exported on 2023-09-18 18:25:40
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -154,7 +154,7 @@ return [
   'shopadmin.discount.title' => 'Réductions',
   'shopadmin.discount.subtitle' => 'Administrez les remises de la boutique.',
   'shopadmin.discount.month' => 'Nombre de mois',
-  'shopadmin.services.manage' => 'Gérer le service depuis votre panel d\'administration',
+  'shopadmin.services.manage' => 'Gérez le service depuis votre panel d\'administration',
   'shopadmin.services.manage2' => 'Gérer le service depuis votre panel client',
   'shopadmin.services.discount.months' => 'Nb. mois',
   'shopadmin.services.discount.price' => 'Prix de la réduction',
@@ -221,7 +221,7 @@ return [
   'serviceactions.recurring.discount' => 'Vous devez attendre la fin de vos %months% cycle(s) pour pouvoir modifier le cycle de facturation.',
   'serviceactions.renew.success' => 'Renouvellement du service effectué avec succès.',
   'serviceactions.renew.cancel' => 'Renouvellement du service annulé.',
-  'serviceactions.renew.manage' => 'Payer le renouvellement de votre service.',
+  'serviceactions.renew.manage' => 'Payez le renouvellement de votre service.',
   'serviceactions.renew.renewinfo' => 'Ce service expire dans %days% jours. Vous pouvez le renouveler en cliquant sur le bouton ci-dessous pour éviter la coupure du service.',
   'serviceactions.renew.warning' => 'Attention',
   'serviceactions.renew.information' => 'Information',
@@ -246,7 +246,7 @@ return [
   'servicespage.unsuspend' => 'Réactiver',
   'servicespage.refund' => 'Rembourser',
   'servicespage.upgrade.title' => 'Amélioration',
-  'servicespage.upgrade.manage' => 'Passer à l\'offre supérieur pour votre service',
+  'servicespage.upgrade.manage' => 'Passez à l\'offre supérieur pour votre service',
   'servicespage.upgrade.actual' => 'Offre actuelle',
   'servicespage.upgrade.btn' => 'Passer sur cette offre',
   'servicespage.subscription.cancel' => 'Votre abonnement de votre service vient d\'être annulé',
