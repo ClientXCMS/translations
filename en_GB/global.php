@@ -1,7 +1,7 @@
 <?php
 /**$
     global - en_GB
-    CLIENTXCMS Translator system - Exported on 2023-09-05 17:56:19
+    CLIENTXCMS Translator system - Exported on 2023-09-18 22:00:29
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -73,7 +73,7 @@ return [
   'recurrings.onetime' => 'One time',
   'your_email' => 'Your E-mail',
   'your_subject' => 'Your subject',
-  'Wallet' => 'your wallet',
+  'wallet' => 'Wallet',
   'send' => 'Send',
   'license' => 'License',
   'remainingscustomers' => 'Remaining customers',
