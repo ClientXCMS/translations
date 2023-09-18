@@ -1,7 +1,7 @@
 <?php
 /**$
     Admin - es_ES
-    CLIENTXCMS Translator system - Exported on 2023-08-19 13:28:38
+    CLIENTXCMS Translator system - Exported on 2023-09-18 18:25:44
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -280,4 +280,12 @@ return [
   'admin.settings.global.enabledpaywithcredit' => 'Activar la posibilidad de pagar parcialmente las facturas con abonos en cuenta',
   'admin.modules.unofficialtitle' => 'Módulos no oficiales',
   'admin.modules.unofficialcat' => 'Aquí encontrará una lista de módulos detectados por el sistema pero no certificados por CLIENTXCMS.',
+  'admin.report.cron.deleteorder' => 'Cancelar pedidos pendientes',
+  'admin.report.cron.deleteordersuccess' => 'Anulación de pedidos %item% con éxito.',
+  'admin.settings.security.captcha.cloudflare.title' => 'Configurar la protección de Cloudflare Turnstile',
+  'admin.settings.security.captcha.cloudflare.content' => 'Puede obtener claves Cloudflare Turnstile en el <a href="https://dash.cloudflare.com/" target="_blank" rel="noopener noreferrer">sitio web de Cloudflare</a>',
+  'admin.staffs.authorized_ips' => 'IPs autorizadas para conectarse a la cuenta',
+  'community' => 'Comunidad',
+  'menuadmin.serviceprovision' => 'Prestación del servicio',
+  'admin.settings.global.ondemand_redirect' => 'URL de redireccionamiento "Oferta a petición"',
 ];
