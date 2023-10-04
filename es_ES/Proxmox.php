@@ -1,7 +1,7 @@
 <?php
 /**$
     Proxmox - es_ES
-    CLIENTXCMS Translator system - Exported on 2023-08-19 13:28:38
+    CLIENTXCMS Translator system - Exported on 2023-10-04 11:44:06
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -99,4 +99,7 @@ return [
   'proxmox.admin.ipaddress.used' => 'Usada ?',
   'proxmox.admin.templates.title' => 'Modelo',
   'proxmox.admin.type' => 'Tipo',
+  'proxmox.settings.defaultdisk' => 'Disco por defecto a modificar',
+  'proxmox.settings.vpsprefix' => 'Prefijo de nombre de host por defecto',
+  'proxmox.settings.backupstorage' => 'Servidor de almacenamiento de copias de seguridad',
 ];
