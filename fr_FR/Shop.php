@@ -1,7 +1,7 @@
 <?php
 /**$
     Shop - fr_FR
-    CLIENTXCMS Translator system - Exported on 2023-10-16 19:07:50
+    CLIENTXCMS Translator system - Exported on 2023-10-21 14:34:26
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -389,4 +389,6 @@ return [
   'shopadmin.services.webhook.title' => 'Executer une webhook lors d\'un renouvellement',
   'groupnotavailable' => 'Aucun produit disponible dans ce groupe.',
   'payments' => 'Paiements',
+  'quotestate.Cancelled' => 'Annulé',
+  'options.boolean.title' => 'Type booléan',
 ];
