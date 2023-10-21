@@ -1,7 +1,7 @@
 <?php
 /**$
     Shop - es_ES
-    CLIENTXCMS Translator system - Exported on 2023-10-21 14:34:29
+    CLIENTXCMS Translator system - Exported on 2023-10-21 14:35:23
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -390,4 +390,5 @@ return [
   'groupnotavailable' => 'No hay productos disponibles en este grupo.',
   'payments' => 'Pagos',
   'quotestate.Cancelled' => 'Cancelado',
+  'options.boolean.title' => 'Tipo booleano',
 ];
