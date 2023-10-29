@@ -1,7 +1,7 @@
 <?php
 /**$
     Ctxreselling - es_ES
-    CLIENTXCMS Translator system - Exported on 2023-10-16 19:06:01
+    CLIENTXCMS Translator system - Exported on 2023-10-29 12:19:59
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -13,4 +13,5 @@ return [
   'ctxreselling.admin.subtitle' => 'Gestión de la reventa de CTXHosting',
   'ctxreselling.admin.pricetext' => 'Debe esta cantidad a CLIENTXCMS',
   'ctxreselling.demo' => 'Servicio de demostración sin cargo, disponible 2 horas.',
+  'ctxreselling.included' => 'Módulos incluidos en su licencia CLIENTXCMS',
 ];
