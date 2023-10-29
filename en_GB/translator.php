@@ -1,7 +1,7 @@
 <?php
 /**$
     translator - en_GB
-    CLIENTXCMS Translator system - Exported on 2023-08-19 13:28:38
+    CLIENTXCMS Translator system - Exported on 2023-10-29 12:20:00
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -50,4 +50,5 @@ return [
   'translatesitems.numericOrZero' => 'The value must be a valid numeric or equal to zero.',
   'translatesitems.positiveOrZero' => 'The value must be positive or equal to zero.',
   'translatesitems.ostemplate' => 'You must choose between a template or an OS.',
+  'translatesitems.domainIsAlreadyRegistered' => 'This domain is already registered',
 ];
