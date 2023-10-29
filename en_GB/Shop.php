@@ -1,7 +1,7 @@
 <?php
 /**$
     Shop - en_GB
-    CLIENTXCMS Translator system - Exported on 2023-10-21 14:34:28
+    CLIENTXCMS Translator system - Exported on 2023-10-29 12:20:01
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -182,7 +182,7 @@ return [
   'shopadmin.product.autoterminatedays' => 'Number of days before termination of the offer',
   'shopadmin.product.autoterminateemail' => '--',
   'shopadmin.product.autoterminate' => 'Fixed-term activation (eg free trials, limited-time products)',
-  'shopadmin.product.recurringcyclestitle' => 'Limit (0 = Unlimited)',
+  'shopadmin.product.recurringcyclestitle' => 'Limit (0 = Unlimited, -1 = Not authorized)',
   'saved' => 'Saved',
   'your_services' => 'My services',
   'your_quotes' => 'My quotes',
