@@ -1,7 +1,7 @@
 <?php
 /**$
     Virtualizor - en_GB
-    CLIENTXCMS Translator system - Exported on 2023-08-19 13:28:38
+    CLIENTXCMS Translator system - Exported on 2023-11-12 18:56:14
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -44,4 +44,5 @@ return [
   'virtualizor.config.subtitle' => 'Manage the characteristics of the offer.',
   'virtualizor.converter.title' => 'Converter',
   'virtualizor.converter.mb' => 'Enter your number in MB',
+  'virtualizor.choosehostname' => 'Choose a custom hostname',
 ];
