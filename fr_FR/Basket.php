@@ -1,7 +1,7 @@
 <?php
 /**$
     Basket - fr_FR
-    CLIENTXCMS Translator system - Exported on 2023-08-19 13:28:38
+    CLIENTXCMS Translator system - Exported on 2023-11-12 18:56:12
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -16,4 +16,5 @@ return [
   'basket.empty' => 'Panier vide',
   'basket.checkout' => 'Valider',
   'basket.added' => 'Produit ajouté avec succès.',
+  'basket.notavailable' => 'Produit non disponible ou invisible.',
 ];
