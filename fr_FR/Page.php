@@ -10,7 +10,7 @@ return [
   'pagemodule.admin.title' => 'Page',
   'pagemodule.admin.subtitle' => 'Gérer le système de pages.',
   'pagemodule.author' => 'Auteur',
-  'pagemodule.published' => 'Publié?',
+  'pagemodule.published' => 'Publié ?',
   'pagemodule.user' => 'Utilisateur',
   'pagemodule.users.global' => 'Visiteur & Connecté',
   'pagemodule.createdonly' => 'Créer le %created% par %author%',

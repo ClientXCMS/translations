@@ -6,7 +6,7 @@
 */
 return [
   'task.progress' => 'Progression',
-  'task.content' => 'Contenu détaillés',
+  'task.content' => 'Détails du contenu',
   'task.services' => 'Services concernés',
   'task.comment' => 'Commentaire',
   'task.subtitle' => 'Gérez les tâches du système.',

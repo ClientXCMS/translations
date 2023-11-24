@@ -5,9 +5,9 @@
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
-  'seo.admin.title' => 'SEO',
-  'seo.admin.subtitle' => 'Gérez le SEO de votre système',
-  'seo.admin.content' => 'Balise dans la balise head',
+  'seo.admin.title' => 'Référencement (SEO)',
+  'seo.admin.subtitle' => 'Gérez le référencement de votre système',
+  'seo.admin.content' => 'Balise dans le head',
   'seo.admin.example' => 'Variables : %url%, %app_name%, %theme_primary%',
   'seo.admin.urlmatch' => 'URL où les balises seront ajoutées',
   'seo.admin.help' => '"*" Pour afficher sur toutes les pages',

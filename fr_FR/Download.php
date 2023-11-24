@@ -5,15 +5,15 @@
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
-  'download.config.maxdownload' => 'Nombre de téléchargements autorisés par client (0 pour aucune limitation)',
+  'download.config.maxdownload' => 'Nombre maximum de téléchargements autorisés par client (0 pour aucune limitation)',
   'download.config.maxdownloadhelp' => 'Disponible uniquement lorsque l\'option "Client uniquement" est activée',
   'download.config.type' => 'Type de document',
   'download.admin.title' => 'Configuration des téléchargements',
-  'download.admin.subtitle' => 'Administez les différentes configurations d\'offres.',
+  'download.admin.subtitle' => 'Administrez les différentes configurations d\'offres.',
   'download.admin.addtouser' => 'Ajouter à l\'utilisateur',
   'download.title' => 'Téléchargements',
   'download.your_download' => 'Vos téléchargements',
-  'download.product' => 'Nos produits téléchargables',
+  'download.product' => 'Nos produits téléchargeables',
   'download.reachedmaxdownload' => 'Vous avez atteint la limite de téléchargement du fichier.',
   'download.config.title' => 'Configuration du téléchargement',
   'download.config.subtitle' => 'Administrez les caractèristiques de l\'offre.',

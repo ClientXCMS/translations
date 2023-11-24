@@ -14,7 +14,7 @@ return [
   'contact.enablewebhook' => 'Webhook d\'activation',
   'contact.email.button' => 'Voir plus',
   'contact.emaillist' => 'Adresse E-mail de réception',
-  'contact.details' => 'Détail',
+  'contact.details' => 'Détails',
   'contact.hours' => 'Temps en heure entre deux demandes',
   'contact.webhook' => 'Lien Webhook',
 ];
