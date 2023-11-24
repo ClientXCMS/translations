@@ -6,9 +6,9 @@
 */
 return [
   'virtualizor.panel.stop' => 'Eteindre',
-  'virtualizor.panel.powerstop' => 'Tuer',
+  'virtualizor.panel.powerstop' => 'Forcer l\'arrêt',
   'virtualizor.panel.restart' => 'Redémarrer',
-  'virtualizor.panel.os_name' => 'OS',
+  'virtualizor.panel.os_name' => 'SE',
   'virtualizor.panel.openticket' => 'Ouvrir un ticket!',
   'virtualizor.panel.uptime' => 'Disponibilité',
   'virtualizor.panel.reset' => 'Réinstallation',
@@ -28,8 +28,8 @@ return [
   'openvz' => 'OpenVZ',
   'lxc' => 'LXC',
   'virtualizor.hostname' => 'Hôte',
-  'virtualizor.os' => 'OS',
-  'virtualizor.offline' => 'éteint',
+  'virtualizor.os' => 'SE',
+  'virtualizor.offline' => 'Éteint',
   'virtualizor.online' => 'Allumé',
   'virtualizor.planname' => 'Nom du plan',
   'virtualizor.panel.bandwidth' => 'Bande passante',
@@ -43,6 +43,6 @@ return [
   'virtualizor.config.title' => 'Configurer votre offre',
   'virtualizor.config.subtitle' => 'Administrez les caractéristiques de l\'offre.',
   'virtualizor.converter.title' => 'Convertisseur',
-  'virtualizor.converter.mb' => 'Tapez votre chiffre en MB',
+  'virtualizor.converter.mb' => 'Tapez votre chiffre en Mo',
   'virtualizor.choosehostname' => 'Choisir un nom d\'hôte personnalisé',
 ];
