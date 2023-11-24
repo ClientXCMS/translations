@@ -7,7 +7,7 @@
 return [
   'affiliate.index' => 'Affiliation',
   'affiliate.settings.onordertype' => 'Type de récompense',
-  'affiliate.settings.onregistration' => 'Crédit ajouté lors d\'une inscription affilié',
+  'affiliate.settings.onregistration' => 'Crédit ajouté lors d\'une inscription affiliée',
   'affiliate.settings.onorder' => 'Crédit ou pourcentage ajouté lors d\'une commande',
   'affiliate.settings.minwithdraw' => 'Montant minimum pour demander un retrait',
   'affiliate.settings.redirecturl' => 'URL de redirection',
@@ -40,5 +40,5 @@ return [
   'affiliate.admin.pendingwithdrawal' => 'Demande de retrait en attente',
   'affiliate.admin.logs.title' => 'Historique',
   'affiliate.client.signups' => 'Inscriptions',
-  'affiliate.client.visitors' => 'Clicks',
+  'affiliate.client.visitors' => 'Clics',
 ];
