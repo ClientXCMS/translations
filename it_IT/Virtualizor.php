@@ -1,0 +1,48 @@
+<?php
+/**$
+    Virtualizor - it_IT
+    CLIENTXCMS Translator system - Exported on 2024-02-03 13:39:50
+    If you want to help you translate into your language, you can contact us via our support.
+*/
+return [
+  'virtualizor.panel.stop' => 'Spegnere',
+  'virtualizor.panel.powerstop' => 'Uccidere',
+  'virtualizor.panel.restart' => 'Riavviare',
+  'virtualizor.panel.os_name' => 'OSSO',
+  'virtualizor.panel.openticket' => 'Apri un ticket!',
+  'virtualizor.panel.uptime' => 'Disponibilità',
+  'virtualizor.panel.reset' => 'Reinstallazione',
+  'virtualizor.admin.title' => 'Virtualizor di configurazione',
+  'virtualizor.productname' => 'Nome del prodotto',
+  'virtualizor.graph' => 'Grafica',
+  'virtualizor.panel.button' => 'Connessione',
+  'virtualizor.panel.start' => 'Leggero',
+  'virtualizor.panel.in' => 'In arrivo',
+  'virtualizor.panel.out' => 'Estroverso',
+  'virtualizor.panel.usage' => 'Uso',
+  'virtualizor.panel.site' => 'Apri il sito web',
+  'virtualizor.panel.information' => 'Informazioni sulla struttura',
+  'virtualizor.panel.problem' => 'Hai un problema con l\'hosting?',
+  'virtualizor.converter.gb' => 'Digita il tuo numero in GB',
+  'kvm' => 'KVM',
+  'openvz' => 'OpenVZ',
+  'lxc' => 'LXC',
+  'virtualizor.hostname' => 'Ospite',
+  'virtualizor.os' => 'OSSO',
+  'virtualizor.offline' => 'estinto',
+  'virtualizor.online' => 'Illuminato',
+  'virtualizor.planname' => 'Nome del piano',
+  'virtualizor.panel.bandwidth' => 'Larghezza di banda',
+  'virtualizor.panel.ram' => 'ARIETE',
+  'virtualizor.panel.virt' => 'Virtualizzazione',
+  'virtualizor.panel.cpu' => 'CPU',
+  'virtualizor.panel.disk' => 'Spazio su disco',
+  'virtualizor.panel.cores' => 'Cuori',
+  'virtualizor.admin.subtitle' => 'Gestire le configurazioni dell\'offerta.',
+  'virtualizor.admin.planname' => 'Nome del piano',
+  'virtualizor.config.title' => 'Configura la tua offerta',
+  'virtualizor.config.subtitle' => 'Amministrare le funzionalità dell\'offerta.',
+  'virtualizor.converter.title' => 'Convertitore',
+  'virtualizor.converter.mb' => 'Digita il tuo numero in MB',
+  'virtualizor.choosehostname' => 'Scegliere un nome host personalizzato',
+];
