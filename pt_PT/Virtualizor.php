@@ -1,0 +1,48 @@
+<?php
+/**$
+    Virtualizor - pt_PT
+    CLIENTXCMS Translator system - Exported on 2024-02-03 13:40:41
+    If you want to help you translate into your language, you can contact us via our support.
+*/
+return [
+  'virtualizor.panel.stop' => 'Desligar',
+  'virtualizor.panel.powerstop' => 'Matar',
+  'virtualizor.panel.restart' => 'Reiniciar',
+  'virtualizor.panel.os_name' => 'OSSO',
+  'virtualizor.panel.openticket' => 'Abra um ticket!',
+  'virtualizor.panel.uptime' => 'Disponibilidade',
+  'virtualizor.panel.reset' => 'Reinstalação',
+  'virtualizor.admin.title' => 'Virtualizador de configuração',
+  'virtualizor.productname' => 'Nome do produto',
+  'virtualizor.graph' => 'Gráfico',
+  'virtualizor.panel.button' => 'Conexão',
+  'virtualizor.panel.start' => 'Luz',
+  'virtualizor.panel.in' => 'Entrante',
+  'virtualizor.panel.out' => 'Extrovertido',
+  'virtualizor.panel.usage' => 'Uso',
+  'virtualizor.panel.site' => 'Abra o site',
+  'virtualizor.panel.information' => 'Informações sobre a propriedade',
+  'virtualizor.panel.problem' => 'Você tem algum problema com hospedagem?',
+  'virtualizor.converter.gb' => 'Digite seu número em GB',
+  'kvm' => 'KVM',
+  'openvz' => 'OpenVZ',
+  'lxc' => 'LXC',
+  'virtualizor.hostname' => 'Anfitrião',
+  'virtualizor.os' => 'OSSO',
+  'virtualizor.offline' => 'extinto',
+  'virtualizor.online' => 'Iluminado',
+  'virtualizor.planname' => 'Nome do plano',
+  'virtualizor.panel.bandwidth' => 'Largura de banda',
+  'virtualizor.panel.ram' => 'CARNEIRO',
+  'virtualizor.panel.virt' => 'Virtualização',
+  'virtualizor.panel.cpu' => 'CPU',
+  'virtualizor.panel.disk' => 'Espaço em disco',
+  'virtualizor.panel.cores' => 'Copas',
+  'virtualizor.admin.subtitle' => 'Gerencie suas configurações de oferta.',
+  'virtualizor.admin.planname' => 'Nome do plano',
+  'virtualizor.config.title' => 'Configurar sua oferta',
+  'virtualizor.config.subtitle' => 'Administrar os recursos da oferta.',
+  'virtualizor.converter.title' => 'Conversor',
+  'virtualizor.converter.mb' => 'Digite seu número em MB',
+  'virtualizor.choosehostname' => 'Escolha um nome de host personalizado',
+];
