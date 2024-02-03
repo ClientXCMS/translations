@@ -1,7 +1,7 @@
 <?php
 /**$
     Admin - fr_FR
-    CLIENTXCMS Translator system - Exported on 2023-09-18 18:25:39
+    CLIENTXCMS Translator system - Exported on 2024-02-03 13:40:51
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -51,11 +51,7 @@ return [
   'admin.settings.security.captcha.sitekey' => 'Clé site',
   'admin.settings.security.captcha.secretkey' => 'Clé secrète',
   'admin.settings.security.captcha.recapcha.title' => 'Configurer la protection Google reCaptcha',
-  'admin.settings.security.captcha.recapcha.content' => 'Vous pouvez obtenir des clés reCaptcha sur le <a
-                        href="https://www.google.com/recaptcha/" target="_blank" rel="noopener noreferrer">
-                        Site Web de Google reCaptcha</a>. Vous devez utiliser reCaptcha <strong>v2
-                        invisible</strong>
-                    clées.',
+  'admin.settings.security.captcha.recapcha.content' => 'Vous pouvez obtenir des clés reCaptcha sur le <a href="https://www.google.com/recaptcha/" target="_blank" rel="noopener noreferrer">Site Web de Google reCaptcha</a>. Vous devez utiliser reCaptcha <strong>v2                        invisible</strong>                    clées.',
   'admin.settings.security.captcha.hcaptcha.title' => 'Configurer la protection HCaptcha',
   'admin.settings.global.logopdf' => 'Logo sur le PDF de la transaction',
   'admin.settings.global.logopdfhelp' => 'Taille recommandé : 90x35',
