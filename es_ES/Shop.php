@@ -1,7 +1,7 @@
 <?php
 /**$
     Shop - es_ES
-    CLIENTXCMS Translator system - Exported on 2023-10-21 14:35:23
+    CLIENTXCMS Translator system - Exported on 2024-02-03 13:40:54
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -391,4 +391,7 @@ return [
   'payments' => 'Pagos',
   'quotestate.Cancelled' => 'Cancelado',
   'options.boolean.title' => 'Tipo booleano',
+  'admin.settings.security.tacLinks' => 'Enlace a las condiciones generales de venta',
+  'servicespage.suspend_reason_label' => 'Motivo de la suspensión',
+  'servicespage.suspend_reason_inform' => 'Informar al cliente del motivo vía correo electrónico',
 ];
