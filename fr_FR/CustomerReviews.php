@@ -10,9 +10,9 @@ return [
   'customerreviews.all' => 'Tous les avis',
   'customerreviews.select' => 'Sélectionner',
   'customerreviews.from' => 'Client depuis le %date%',
-  'customerreviews.noreviewsyet' => 'Affiche Pas encore d\'avis',
+  'customerreviews.noreviewsyet' => 'Pas encore d\'avis à afficher',
   'customerreviews.stars' => 'Etoiles',
-  'customerreviews.success' => 'Merci d\'avoir laissé votre avis sur nos services. Nous améliorons tous les jours.',
+  'customerreviews.success' => 'Merci d\'avoir laissé votre avis sur nos services. Nous nous améliorons tous les jours.',
   'customerreviews.already.title' => 'Vous avez déjà laissé votre avis sur le service',
   'customerreviews.already.subtitle' => 'Vous ne pouvez pas le modifier une fois posté',
   'customerreviews.already.back' => 'Retour au service',
@@ -23,5 +23,5 @@ return [
   'customerreviews.star' => 'Etoile',
   'customerreviews.review' => 'Retour sur le service',
   'customerreviews.title' => 'Donnez votre avis sur votre service %serviceName%',
-  'customerreviews.title2' => 'Donnez une note de 0 à 5 à la qualité du service',
+  'customerreviews.title2' => 'Donnez une note de 0 à 5 sur la qualité du service',
 ];

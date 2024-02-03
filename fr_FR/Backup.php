@@ -8,9 +8,9 @@ return [
   'backup.size' => 'Taille',
   'backup.title' => 'Sauvegardes',
   'backup.subtitle' => 'Administrez vos sauvegardes du système.',
-  'backup.add' => 'Sauvegarder manuel',
+  'backup.add' => 'Sauvegarde manuel',
   'backup.settings.max_keeping' => 'Nombre maximum de sauvegardes gardées en mémoire',
   'backup.settings.between_backup' => 'Heures entre deux sauvegardes',
-  'backup.settings.connectwithgoogle' => 'Connexion vers google',
+  'backup.settings.connectwithgoogle' => 'Connexion vers Google',
   'backup.settings.detected' => 'Types de sauvegarde détectés',
 ];
