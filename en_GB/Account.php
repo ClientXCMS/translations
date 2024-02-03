@@ -1,7 +1,7 @@
 <?php
 /**$
     Account - en_GB
-    CLIENTXCMS Translator system - Exported on 2023-09-10 14:40:47
+    CLIENTXCMS Translator system - Exported on 2024-02-03 13:40:53
     If you want to help you translate into your language, you can contact us via our support.
 */
 return [
@@ -106,4 +106,5 @@ return [
   'account.resend.waiting' => 'You must wait 30 minutes between two requests',
   'account.admin.modal.title' => '“How did you find us?” graphic',
   'account.forms.security.removetotpKey' => 'Remove 2FA from account',
+  'account.signup.accepttosvalidation' => 'Please accept before submitting',
 ];
